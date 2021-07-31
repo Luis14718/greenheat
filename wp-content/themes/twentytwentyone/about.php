@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: about
+Template Name: review
 */
 
 get_header('theme'); 
