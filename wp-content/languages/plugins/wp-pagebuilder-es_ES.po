@@ -1,0 +1,2763 @@
+# Translation of Plugins - WP Page Builder - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - WP Page Builder - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-17 16:22:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - WP Page Builder - Stable (latest release)\n"
+
+#: classes/Assets.php:123
+msgid "Default Icon"
+msgstr "Icono por defecto"
+
+#: addons/social_button/social_button.php:258
+msgid "Title Typography"
+msgstr "Tipografía del título"
+
+#: addons/carousel/carousel.php:774
+msgid "Background Image overlay"
+msgstr "Superposición de la imagen de fondo"
+
+#: addons/video/video.php:44
+msgid "Controls"
+msgstr "Controles"
+
+#: addons/video/video.php:38
+msgid "Logo"
+msgstr "Logotipo"
+
+#: addons/video/video.php:27
+msgid "Self-hosted"
+msgstr "Autoalojado"
+
+#: addons/video/video.php:26
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: addons/video/video.php:25
+msgid "Youtube"
+msgstr "YouTube"
+
+#: addons/video/video.php:23
+msgid "Video Source"
+msgstr "Fuente del vídeo"
+
+#: addons/image/image.php:53
+msgid "Enable Icon"
+msgstr "Activar el icono"
+
+#: addons/animated_number/animated_number.php:182
+#: addons/animated_number/animated_number.php:280
+msgid "typography"
+msgstr "tipografía"
+
+#: addons/animated_number/animated_number.php:74
+msgid "Suffix Text"
+msgstr "Texto del sufijo"
+
+#: addons/animated_number/animated_number.php:69
+msgid "Prefix Text"
+msgstr "Texto del prefijo"
+
+#: classes/Editor_Management.php:352
+msgid "Back to Guttenberg"
+msgstr "Volver a Gutenberg"
+
+#: classes/Assets.php:128
+msgid "Text Decoration"
+msgstr "Decoración del texto"
+
+#: addons/testimonial_carousel/testimonial_carousel.php:106
+#: addons/carousel/carousel.php:92
+#: addons/person_carousel/person_carousel.php:209
+msgid "Animated Speed"
+msgstr "Velocidad de animación"
+
+#: addons/blocknumber/blocknumber.php:151
+msgid "Number margin"
+msgstr "Margen del número"
+
+#: addons/form/form.php:795
+msgid "Button hover radius"
+msgstr "Radio del botón al pasar cursor"
+
+#: addons/form/form.php:781
+msgid "Button radius"
+msgstr "Radio del botón"
+
+#: classes/Assets.php:129
+msgid "Sepia"
+msgstr "Sepia"
+
+#: classes/Assets.php:129
+msgid "Saturate"
+msgstr "Saturación"
+
+#: classes/Assets.php:129
+msgid "Hue Rotate"
+msgstr "Rotación de color"
+
+#: classes/Assets.php:129
+msgid "Grayscale"
+msgstr "Escala de grises"
+
+#: classes/Assets.php:129
+msgid "Contrast"
+msgstr "Contraste"
+
+#: classes/Assets.php:129
+msgid "Brightness"
+msgstr "Brillo"
+
+#: classes/Assets.php:128
+msgid "Enable"
+msgstr "Activar"
+
+#: classes/Assets.php:128
+msgid "Disable"
+msgstr "Desactivar"
+
+#: classes/Assets.php:128
+msgid "Text Transform"
+msgstr "Transformación del texto"
+
+#: classes/Assets.php:128
+msgid "Font Weight"
+msgstr "Tamaño de la fuente"
+
+#: classes/Assets.php:127
+msgid "Font Style"
+msgstr "Estilo de la fuente"
+
+#: classes/Assets.php:127
+msgid "Letter Spacing"
+msgstr "Espaciado entre letras"
+
+#: classes/Assets.php:126
+msgid "Font Family"
+msgstr "Familia de la fuente"
+
+#: classes/Assets.php:126
+msgid "Bring to Front"
+msgstr "Traer al frente"
+
+#: classes/Assets.php:125 classes/Assets.php:129
+msgid "Invert"
+msgstr "Invertir"
+
+#: classes/Assets.php:125
+msgid "Flip"
+msgstr "Voltear"
+
+#: classes/Assets.php:124
+msgid "Delete"
+msgstr "Borrar"
+
+#: classes/Assets.php:124
+msgid "nofollow"
+msgstr "nofollow"
+
+#: classes/Assets.php:124
+msgid "Open in new window"
+msgstr "Abrir en una nueva ventana"
+
+#: classes/Assets.php:123
+msgid "Font Awesome 5"
+msgstr "Font Awesome 5"
+
+#: classes/Assets.php:123
+msgid "All"
+msgstr "All"
+
+#: classes/Assets.php:122
+msgid "End Position"
+msgstr "Posición final"
+
+#: classes/Assets.php:122
+msgid "Start Position"
+msgstr "Posición de salida"
+
+#: classes/Assets.php:122
+msgid "Gradient Direction"
+msgstr "Dirección del gradiente"
+
+#: classes/Assets.php:121
+msgid "Gradient Type"
+msgstr "Tipo de gradiente"
+
+#: classes/Assets.php:120
+msgid "Spread"
+msgstr "Difundir"
+
+#: classes/Assets.php:120
+msgid "Blur"
+msgstr "Difuminado"
+
+#: classes/Assets.php:118
+msgid "Upload Video"
+msgstr "Vídeo subido"
+
+#: classes/Assets.php:118
+msgid "Fallback Image"
+msgstr "Imagen alternativa"
+
+#: classes/Assets.php:117
+msgid "URL"
+msgstr "URL"
+
+#: classes/Assets.php:117
+msgid "Repeat"
+msgstr "Repetir"
+
+#: classes/Assets.php:117
+msgid "Attachment"
+msgstr "Adjunto"
+
+#: classes/Assets.php:114
+msgid "duration"
+msgstr "duración"
+
+#: classes/Assets.php:114
+msgid "Delay"
+msgstr "Retraso"
+
+#: classes/Assets.php:114
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: classes/Assets.php:113
+msgid "Add Item"
+msgstr "Añadir elemento"
+
+#: classes/Assets.php:113
+msgid "Apply"
+msgstr "Aplicar"
+
+#: classes/Assets.php:113
+msgid "Search"
+msgstr "Buscar"
+
+#: classes/Assets.php:112
+msgid "Pages"
+msgstr "Páginas"
+
+#: classes/Assets.php:112
+msgid "Title of the custom section"
+msgstr "Título de la sección personalizada"
+
+#: classes/Assets.php:112
+msgid "Discard"
+msgstr "Descartar"
+
+#: classes/Assets.php:111
+msgid "Save to Library"
+msgstr "Guardar en la biblioteca"
+
+#: classes/Assets.php:111
+msgid "PRO"
+msgstr "PRO"
+
+#: classes/Assets.php:111
+msgid "Preview"
+msgstr "Previsualización"
+
+#: classes/Assets.php:110
+msgid "Delete Row"
+msgstr "Borrar fila"
+
+#: classes/Assets.php:110
+msgid "Move Down"
+msgstr "Mover hacia abajo"
+
+#: classes/Assets.php:110
+msgid "Move Up"
+msgstr "Mover hacia arriba"
+
+#: classes/Assets.php:109
+msgid "Disable Row"
+msgstr "Desactivar fila"
+
+#: classes/Assets.php:109
+msgid "Save Row"
+msgstr "Guardar fila"
+
+#: classes/Assets.php:109
+msgid "Duplicate Row"
+msgstr "Duplicar fila"
+
+#: classes/Assets.php:108
+msgid "Redo"
+msgstr "Rehacer"
+
+#: classes/Assets.php:108
+msgid "Undo"
+msgstr "Deshacer"
+
+#: classes/Assets.php:108
+msgid "View Page"
+msgstr "Ver la página"
+
+#: classes/Assets.php:107
+msgid "Edit Page"
+msgstr "Editar página"
+
+#: classes/Assets.php:107
+msgid "Dashboard"
+msgstr "Escritorio"
+
+#: classes/Assets.php:107
+msgid "Save"
+msgstr "Guardar"
+
+#: classes/Assets.php:106
+msgid "View"
+msgstr "Ver"
+
+#: classes/Assets.php:106
+msgid "Clear Page Content"
+msgstr "Limpiar el contenido de la página"
+
+#: classes/Assets.php:106
+msgid "Export"
+msgstr "Exportar"
+
+#: classes/Assets.php:105
+msgid "Import"
+msgstr "Importar"
+
+#: classes/Assets.php:105
+msgid "Tools"
+msgstr "Herramientas"
+
+#: classes/Assets.php:105
+msgid "Library"
+msgstr "Biblioteca"
+
+#: classes/Assets.php:105
+msgid "Blocks"
+msgstr "Bloques"
+
+#: classes/Assets.php:104
+msgid "Addons"
+msgstr "Extensiones"
+
+#: classes/Assets.php:104
+msgid "Drag Inner Row"
+msgstr "Arrastrar fila interior"
+
+#: classes/Assets.php:104
+msgid "Drag Column"
+msgstr "Arrastrar columna"
+
+#: classes/Assets.php:103
+msgid "Add Inner Row"
+msgstr "Añadir fila interior"
+
+#: classes/Assets.php:103
+msgid "Delete Column"
+msgstr "Borrar columna"
+
+#: classes/Assets.php:103
+msgid "Disable Column"
+msgstr "Desactivar columna"
+
+#: classes/Assets.php:102
+msgid "Duplicate Column"
+msgstr "Duplicar columna"
+
+#: classes/Assets.php:102
+msgid "Add Column"
+msgstr "Añadir columna"
+
+#: classes/Assets.php:102
+msgid "WordPress Widgets"
+msgstr "Widgets de WordPress"
+
+#: classes/Assets.php:101
+msgid "Default Addons"
+msgstr "Extensiones por defecto"
+
+#: classes/Assets.php:101
+msgid "Layouts"
+msgstr "Diseños"
+
+#: classes/Assets.php:101
+msgid "Add Row"
+msgstr "Añadir fila"
+
+#: classes/General.php:143
+msgid "<span class=\"dashicons dashicons-awards wppb-go-premium-star\"></span> Go Premium"
+msgstr "<span class=\"dashicons dashicons-awards wppb-go-premium-star\"></span> Conseguir la versión premium"
+
+#: addons/accordion/accordion.php:204
+msgid "Title separator spacing"
+msgstr "Espaciado separador de título"
+
+#. Author of the plugin
+msgid "Themeum.com"
+msgstr "Themeum.com"
+
+#. Description of the plugin
+msgid "WP Page Builder is a FREE drag & drop website building tool for WordPress. This plugin lets you develop a wonderful site in minutes without any coding."
+msgstr "WP Page Builder es una herramienta de arrastrar y soltar GRATUITA para la creación de webs en WordPress. Este plugin te permite desarrollar un sitio maravilloso en minutos sin usar código."
+
+#: classes/Helper.php:278
+msgid "Dev Docs"
+msgstr "Documentos del desarrollador"
+
+#: addons/progress_bar/progress_bar.php:207
+msgid "Box Background"
+msgstr "Fondo de la caja"
+
+#: addons/testimonial_carousel/testimonial_carousel.php:609
+#: addons/person_carousel/person_carousel.php:901
+msgid "Nav Font Size"
+msgstr "Tamaño de fuente de navegación"
+
+#: addons/testimonial_carousel/testimonial_carousel.php:42
+msgid "Testimonial Item"
+msgstr "Artículo con recomendación"
+
+#: addons/tab/tab.php:182
+msgid "Hover background Color"
+msgstr "Color del fondo al pasar el cursor"
+
+#: addons/person_carousel/person_carousel.php:124
+msgid "Show Social Media URL"
+msgstr "Mostrar URL de redes sociales"
+
+#: addons/person/person.php:72
+msgid "Social Media URL"
+msgstr "URL de medios de redes sociales"
+
+#: addons/person/person.php:66
+msgid "Show Social Media"
+msgstr "Mostrar redes sociales"
+
+#: addons/person/person.php:47 addons/person_carousel/person_carousel.php:104
+msgid "Profile URL"
+msgstr "URL del perfil"
+
+#: addons/image_hover/image_hover.php:128
+msgid "Hide button"
+msgstr "Ocultar botón"
+
+#: addons/image_hover/image_hover.php:96
+msgid "Show Sub Title"
+msgstr "Mostrar subtítulo"
+
+#: addons/image_hover/image_hover.php:56
+msgid "Show Title"
+msgstr "Mostrar título"
+
+#: addons/form/form.php:1157
+msgid "Check reCaptcha required"
+msgstr "Comprueba el reCaptcha obligatorio"
+
+#: addons/form/form.php:1116
+msgid "Thank you for submitting form"
+msgstr "Gracias por enviar el formulario"
+
+#: addons/form/form.php:1027
+msgid "recaptcha answer does not matched"
+msgstr "La respuesta al recaptcha no coincide"
+
+#: addons/form/form.php:1127 addons/form/form.php:1151
+msgid "Something went wrong, please try again later"
+msgstr "Algo salió mal, por favor inténtalo de nuevo más tarde"
+
+#: addons/form/form.php:995
+msgid "Form data error"
+msgstr "Error de datos en el formulario"
+
+#: addons/form/form.php:947
+msgid "WPPB Simple reCaptcha"
+msgstr "WPPB Simple reCaptcha"
+
+#: addons/form/form.php:669
+msgid "label Color"
+msgstr "Color de la etiqueta"
+
+#: addons/form/form.php:652
+msgid "Label Typography"
+msgstr "Tipografía de la etiqueta"
+
+#: addons/form/form.php:645
+msgid "Label button"
+msgstr "Botón de la etiqueta"
+
+#: addons/form/form.php:636
+msgid "Textarea resize"
+msgstr "Cambiar tamaño del área de texto"
+
+#: addons/form/form.php:608
+msgid "Input border radius"
+msgstr "Radio del borde del campo de entrada"
+
+#: addons/form/form.php:595
+msgid "Input focus boder color"
+msgstr "Color del borde al ser el foco el campo de entrada"
+
+#: addons/form/form.php:573
+msgid "Radio/Checkbok active bg color"
+msgstr "Color de fondo del radio/casilla de verificación al hacer clic"
+
+#: addons/form/form.php:565
+msgid "Input background color"
+msgstr "Color de fondo del campo de entrada"
+
+#: addons/form/form.php:557
+msgid "Placeholder color"
+msgstr "Color del marcador de posición"
+
+#: addons/form/form.php:538
+msgid "Input color"
+msgstr "Color del campo de entrada"
+
+#: addons/form/form.php:521
+msgid "Input Typography"
+msgstr "Tipografía del campo de entrada"
+
+#: addons/form/form.php:487
+msgid "Horizontal Spacing"
+msgstr "Espaciado horizontal"
+
+#: addons/form/form.php:450
+msgid "Vertical Spacing"
+msgstr "Espaciado vertical"
+
+#: addons/form/form.php:405
+msgid "Use this for communication between your site and Google. Be sure to keep it a secret."
+msgstr "Usa esto para la comunicación entre tu sitio y Google. Asegúrate de mantenerlo en secreto."
+
+#: addons/form/form.php:403
+msgid "Secret key"
+msgstr "Clave secreta"
+
+#: addons/form/form.php:397
+msgid "Use this in the HTML code your site serves to users."
+msgstr "Usa esto en el código HTML de tu sitio que sirves a los usuarios."
+
+#: addons/form/form.php:395
+msgid "Site key"
+msgstr "Clave del sitio"
+
+#: addons/form/form.php:371
+msgid "Enable or disable Google ReCAPTCHA"
+msgstr "Activar o desactivar Google ReCAPTCHA"
+
+#: addons/form/form.php:368
+msgid "Enable Google ReCAPTCHA"
+msgstr "Habilitar Google ReCAPTCHA"
+
+#: addons/form/form.php:363
+msgid "Enable or disable Simple ReCAPTCHA"
+msgstr "Activar o desactivar Simple ReCAPTCHA"
+
+#: addons/form/form.php:360
+msgid "Enable Simple ReCAPTCHA"
+msgstr "Habilitar Simple ReCAPTCHA"
+
+#: addons/form/form.php:354
+msgid "Your redirect URL will be here"
+msgstr "Tu URL de redireccionamiento estará aquí"
+
+#: addons/form/form.php:351
+msgid "Redirect URL"
+msgstr "Redirigir URL"
+
+#: addons/form/form.php:343
+msgid "Enable Redirect URL"
+msgstr "Habilitar re-dirección de URL"
+
+#: addons/form/form.php:337
+msgid "Type the message you want to display after successful form submission. Leave blank for default"
+msgstr "Escribe el mensaje que quieras mostrar y después envía el formulario. Déjalo en blanco por defecto."
+
+#: addons/form/form.php:334
+msgid "Success Message"
+msgstr "Mensaje de éxito"
+
+#: addons/form/form.php:329
+msgid "Custom Message format for this form, should be use like, <strong>My Message is {Message}</strong>"
+msgstr "El formato del mensaje personalizado para este formulario, debe ser como, <strong>Mi mensaje es {Message}</strong>"
+
+#: addons/form/form.php:326
+msgid "Message Format"
+msgstr "Formato de mensaje"
+
+#: addons/form/form.php:321
+msgid "You can set veraible for date time, available variable, <strong>{date}, {time}, {datetime}</strong>"
+msgstr "Puedes establecer la variable para la fecha. La variable disponible es, <strong>{date}, {time}, {datetime}</strong>"
+
+#: addons/form/form.php:319
+msgid "A new query has been placed at {datetime}"
+msgstr "Se ha colocado una nueva consulta en {datetime}"
+
+#: addons/form/form.php:318
+msgid "Subject"
+msgstr "Asunto"
+
+#: addons/form/form.php:311
+msgid "From E-Mail"
+msgstr "Remitente de correo electrónico"
+
+#: addons/form/form.php:304
+msgid "Recipient E-Mail"
+msgstr "Destinatario de correo electrónico"
+
+#: addons/form/form.php:292
+msgid "Option Name"
+msgstr "Nombre de la opción"
+
+#: addons/form/form.php:285
+msgid "Select Option"
+msgstr "Seleccionar opción"
+
+#: addons/form/form.php:277
+msgid "Checkbox Name"
+msgstr "Nombre la casilla de selección"
+
+#: addons/form/form.php:263
+msgid "Radio Name"
+msgstr "Nombre del botón radio"
+
+#: addons/form/form.php:256 addons/form/form.php:270
+msgid "Add Option"
+msgstr "Añadir opción"
+
+#: addons/form/form.php:211 addons/form/form.php:346
+msgid "Define whether the field should be required or optional"
+msgstr "Define si el campo debe ser obligatorio u opcional"
+
+#: addons/form/form.php:209
+msgid "Required Field"
+msgstr "Campo obligatorio"
+
+#: addons/form/form.php:202
+msgid "Placeholder"
+msgstr "Marcador de posición"
+
+#: addons/form/form.php:197
+msgid "Define the unique ID of this field. Use only English characters without special characters and spaces."
+msgstr "Define un único ID en este campo. Usa solo caracteres en inglés sin caracteres especiales ni espacios."
+
+#: addons/form/form.php:196
+msgid "Field ID"
+msgstr "Campo de la ID"
+
+#: addons/form/form.php:191
+msgid "Label"
+msgstr "Etiqueta"
+
+#: addons/form/form.php:132
+msgid "Form Fields"
+msgstr "Campos del formulario"
+
+#: addons/carousel/carousel.php:1010
+msgid "Dots Position"
+msgstr "Posición de los puntos"
+
+#: addons/carousel/carousel.php:965
+msgid "Dots height"
+msgstr "Alto de los puntos"
+
+#: addons/carousel/carousel.php:934
+msgid "Dots width"
+msgstr "Ancho de los puntos"
+
+#: addons/carousel/carousel.php:921
+msgid "Dots Background"
+msgstr "Fondo de los puntos"
+
+#: addons/carousel/carousel.php:889
+msgid "Nav Position"
+msgstr "Posición de navegación"
+
+#: addons/carousel/carousel.php:844
+msgid "Nav height"
+msgstr "Altura de navegación"
+
+#: addons/carousel/carousel.php:813
+msgid "Nav width"
+msgstr "Ancho de navegación"
+
+#: addons/carousel/carousel.php:800
+msgid "Nav Background"
+msgstr "Fondo de navegación"
+
+#: addons/carousel/carousel.php:792
+msgid "Nav Color"
+msgstr "Color de navegación"
+
+#: addons/carousel/carousel.php:768
+msgid "Overlay hide"
+msgstr "Ocultar superposición"
+
+#: addons/carousel/carousel.php:761
+msgid "Background image"
+msgstr "Imagen de fondo"
+
+#: addons/carousel/carousel.php:725
+msgid "Border 2 Radius"
+msgstr "Radio del borde 2"
+
+#: addons/carousel/carousel.php:689
+msgid "Button Hover Background 2"
+msgstr "Fondo del botón al pasar el ratón 2"
+
+#: addons/carousel/carousel.php:677
+msgid "Button Background 2"
+msgstr "Fondo del botón 2"
+
+#: addons/carousel/carousel.php:671
+msgid "Button Hover Color 2"
+msgstr "Color del botón al pasar el ratón 2"
+
+#: addons/carousel/carousel.php:663
+msgid "Button Color 2"
+msgstr "Color del botón 2"
+
+#: addons/carousel/carousel.php:633
+msgid "Button link 2"
+msgstr "Enlace del botón 2"
+
+#: addons/carousel/carousel.php:627
+msgid "Button text 2"
+msgstr "Texto del botón 2"
+
+#: addons/carousel/carousel.php:551
+msgid "Button Hover Background"
+msgstr "Fondo del botón al pasar el ratón"
+
+#: addons/carousel/carousel.php:531
+msgid "Button Hover Color"
+msgstr "Color del botón al pasar el ratón"
+
+#: addons/carousel/carousel.php:523
+msgid "Button Color"
+msgstr "Color del botón"
+
+#: addons/carousel/carousel.php:493
+msgid "Button link"
+msgstr "Enlace del botón"
+
+#: addons/carousel/carousel.php:451
+msgid "Content text color"
+msgstr "Color del texto del contenido"
+
+#: addons/carousel/carousel.php:435
+msgid "Add content"
+msgstr "Añadir contenido"
+
+#: addons/carousel/carousel.php:399
+msgid "Sub title color"
+msgstr "Color del subtitulo"
+
+#: addons/carousel/carousel.php:369
+msgid "Subtitle"
+msgstr "Subtítulo"
+
+#: addons/carousel/carousel.php:293
+msgid "Content Alignment"
+msgstr "Alineación del contenido"
+
+#: addons/carousel/carousel.php:275
+msgid "Hide video info"
+msgstr "Ocultar información del vídeo"
+
+#: addons/carousel/carousel.php:250
+msgid "Upload content image"
+msgstr "Subir imagen al contenido"
+
+#: classes/Assets.php:116 addons/carousel/carousel.php:242
+msgid "Video"
+msgstr "Vídeo"
+
+#: classes/Assets.php:118 addons/carousel/carousel.php:239
+msgid "Type"
+msgstr "Tipo"
+
+#: addons/carousel/carousel.php:232
+msgid "Left Media"
+msgstr "Medios a la izquierda"
+
+#: addons/carousel/carousel.php:231
+msgid "Right Media"
+msgstr "Medios a la derecha"
+
+#: addons/carousel/carousel.php:230
+msgid "Only Content"
+msgstr "Solo contenido"
+
+#: addons/carousel/carousel.php:228
+msgid "Content Type"
+msgstr "Escribir contenido"
+
+#: addons/carousel/carousel.php:128
+msgid "Carousel"
+msgstr "Carrusel"
+
+#: addons/carousel/carousel.php:99
+msgid "Slider Height"
+msgstr "Altura del deslizador"
+
+#: addons/carousel/carousel.php:80
+msgid "Control Option"
+msgstr "Opciones de control"
+
+#: addons/carousel/carousel.php:74
+msgid "Navigation Option"
+msgstr "Opciones de navegación"
+
+#: addons/animated_number/animated_number.php:231
+#: addons/animated_number/animated_number.php:329
+msgid "Space vertically"
+msgstr "Espacio vertical"
+
+#: addons/animated_number/animated_number.php:199
+#: addons/animated_number/animated_number.php:297
+msgid "Space Horizontal"
+msgstr "Espacio horizontal"
+
+#: classes/Options.php:124
+msgid "Gutter"
+msgstr "Separación entre filas"
+
+#: classes/Helper.php:279
+msgid "Free Support"
+msgstr "Soporte gratuito"
+
+#: classes/Helper.php:277
+msgid "Docs"
+msgstr "Documentos"
+
+#. Author URI of the plugin
+msgid "https://themeum.com"
+msgstr "https://themeum.com"
+
+#. Plugin URI of the plugin
+msgid "https://www.themeum.com/product/wp-pagebuilder/"
+msgstr "https://www.themeum.com/product/wp-pagebuilder/"
+
+#: inc/editor-main.php:13
+msgid "WP PageBuilder"
+msgstr "WP PageBuilder"
+
+#: core/initial-setup.php:66
+msgid "WP Page Builder requires WordPress version %s or more."
+msgstr "WP Page Builder necesita WordPress version %s o supeior."
+
+#: core/initial-setup.php:59
+msgid "WP Page Builder requires PHP version %s or more."
+msgstr "WP Page Builder necesita PHP version %s o superior."
+
+#: classes/Theme_Manager.php:46
+msgid "WP Page Builder Template"
+msgstr "Plantilla WP Page Builder"
+
+#: classes/Options.php:157
+msgid "Clean WP Page Builder cache & synchronize built-in layouts & blocks with server."
+msgstr "Vacía la memoria caché de WP Page Builder y sincroniza los diseños y bloques integrados con el servidor."
+
+#: classes/Options.php:155
+msgid "Clean Cache and Sync"
+msgstr "Limpiar la caché y sincronizar"
+
+#: classes/Options.php:152
+msgid "Cache"
+msgstr "Caché"
+
+#: classes/Options.php:147
+msgid "Select where you want to save the CSS."
+msgstr "Seleccionar donde quieres guardar el CSS."
+
+#: classes/Options.php:139
+msgid "Header"
+msgstr "Cabecera"
+
+#: classes/Options.php:138
+msgid "File System"
+msgstr "Sistema de archivos"
+
+#: classes/Options.php:132
+msgid "CSS Save Method"
+msgstr "Método de guardado CSS"
+
+#: classes/Options.php:127
+msgid "Default Spacing is 30 px. You can set any spacing."
+msgstr "El espaciado por defecto es de 30px. Puedes establecer cualquier otro espaciado."
+
+#: classes/Options.php:119
+msgid "Default Content Width is 1140 px. You can set any width."
+msgstr "El ancho del contenido por defecto es de 1440 px. Puedes establecer cualquier ancho."
+
+#: classes/Options.php:116
+msgid "Content Width"
+msgstr "Ancho del contenido"
+
+#: classes/Options.php:93
+msgid "Select post types that can be edited with WP Page Builder."
+msgstr "Selecciona los tipos de contenido que se pueden editar con WP Page Builder."
+
+#: classes/Options.php:64
+msgid "WP Page Builder Options"
+msgstr "Opciones de WP Page Builder"
+
+#. Plugin Name of the plugin
+#: classes/Options.php:22 classes/Options.php:23
+msgid "WP Page Builder"
+msgstr "WP Page Builder"
+
+#: classes/Helper.php:270
+msgid "Settings"
+msgstr "Ajustes"
+
+#: classes/Helper.php:268
+msgid "Get Premium"
+msgstr "Conseguir premium"
+
+#: classes/General.php:143
+msgid "Go Premium"
+msgstr "Ir a premium"
+
+#: classes/General.php:120
+msgid "Use Default Editor"
+msgstr "Usar el editor por defecto"
+
+#: classes/General.php:41 classes/Compatibility.php:187
+#: classes/Frontend.php:319 classes/Frontend.php:322
+msgid "Edit with WP Page Builder"
+msgstr "Editar con WP Page Builder"
+
+#: classes/General.php:123 classes/General.php:129
+#: classes/Editor_Management.php:349
+msgid "Edit With WP Page Builder"
+msgstr "Editar con WP Page Builder"
+
+#: classes/Editor_Management.php:32
+msgid "Sorry, you are not allowed to access this page."
+msgstr "Lo sentimos, no tienes permisos para acceder a esta página."
+
+#: classes/Base_Data.php:296 classes/Base_Data.php:297
+#: classes/Base_Data.php:574 classes/Base_Data.php:575
+#: classes/Base_Data.php:883 classes/Base_Data.php:884
+msgid "Use {{SELECTOR}} before the selector to wrap element. Otherwise it works globally."
+msgstr "Usa {{SELECTOR}} antes del selector para envolver el elemento. De lo contrario, funciona a nivel global."
+
+#: classes/Base_Data.php:294 classes/Base_Data.php:572
+#: classes/Base_Data.php:881
+msgid "Custom CSS"
+msgstr "CSS personalizado"
+
+#: classes/Base_Data.php:281
+msgid "Display"
+msgstr "Mostrar"
+
+#: classes/Ajax.php:192
+msgid "CSS can not be saved due to permission!!!"
+msgstr "¡¡CSS no se puede guardar debido a los permisos!!"
+
+#: classes/Ajax.php:177
+msgid "WP Page Builder content has been updated."
+msgstr "El contenido de WP Page Builder ha sido actualizado."
+
+#: addons/video_popup/video_popup.php:280
+msgid "After color"
+msgstr "Color posterior"
+
+#: addons/video_popup/video_popup.php:246
+msgid "Before color"
+msgstr "Color anterior"
+
+#: addons/video_popup/video_popup.php:230
+msgid "Icon Radius"
+msgstr "Radio del icono"
+
+#: addons/video_popup/video_popup.php:76
+msgid "hover Background color"
+msgstr "color del fondo al pasar el cursor"
+
+#: addons/video_popup/video_popup.php:42
+msgid "Video icon alignment"
+msgstr "Alineación del icono del vídeo"
+
+#: addons/video_popup/video_popup.php:38
+msgid "After Video text"
+msgstr "Texto después del vídeo"
+
+#: addons/video_popup/video_popup.php:34
+msgid "Before Video text"
+msgstr "Texto antes del vídeo"
+
+#: addons/video/video.php:33 addons/carousel/carousel.php:268
+#: addons/video_popup/video_popup.php:29
+msgid "Video URL"
+msgstr "URL del vídeo"
+
+#: addons/text_block/text_block.php:71
+msgid "Drop Cap Typography"
+msgstr "Tipografía de letra captular"
+
+#: addons/text_block/text_block.php:64
+msgid "Drop color"
+msgstr "Color de letra capitular"
+
+#: addons/text_block/text_block.php:30
+msgid "Drop cap"
+msgstr "Letra capitular"
+
+#: addons/testimonial_carousel/testimonial_carousel.php:665
+msgid "background hover color"
+msgstr "color de fondo al pasar el ratón"
+
+#: addons/testimonial_carousel/testimonial_carousel.php:649
+#: addons/video_popup/video_popup.php:68
+msgid "background color"
+msgstr "Color de fondo"
+
+#: addons/testimonial_carousel/testimonial_carousel.php:489
+msgid "Dots Style"
+msgstr "Estilo de los puntos"
+
+#: addons/testimonial_carousel/testimonial_carousel.php:487
+msgid "Dot Margin"
+msgstr "margen del punto"
+
+#: addons/testimonial_carousel/testimonial_carousel.php:418
+msgid "hover/active background"
+msgstr "fondo al pasar el cursor/al pulsar el cursor"
+
+#: addons/testimonial_carousel/testimonial_carousel.php:152
+msgid "Testimonial alignment"
+msgstr "Alineación de las recomendaciones"
+
+#: addons/testimonial_carousel/testimonial_carousel.php:125
+msgid "Nav Style"
+msgstr "Estilo de navegación"
+
+#: addons/testimonial_carousel/testimonial_carousel.php:100
+msgid "Autoplay"
+msgstr "Auto-reproducción"
+
+#: addons/testimonial_carousel/testimonial_carousel.php:92
+msgid "Message Text"
+msgstr "Texto del mensaje"
+
+#: addons/tab/tab.php:503
+msgid "Active/hover Background color"
+msgstr "Color de fondo activo/al pasar el cursor"
+
+#: addons/tab/tab.php:487
+msgid "Active/hover color"
+msgstr "Color activo/al pasar el cursor"
+
+#: addons/tab/tab.php:359
+msgid "Active Color"
+msgstr "Color activo"
+
+#: addons/tab/tab.php:190
+msgid "Active background Color"
+msgstr "Color de fondo activo"
+
+#: addons/tab/tab.php:77
+msgid "Add Tab Item"
+msgstr "Añadir elemento de pestaña"
+
+#: addons/tab/tab.php:53
+msgid "Nav Bar width"
+msgstr "Ancho barra de navegación"
+
+#: addons/tab/tab.php:36 addons/video_popup/video_popup.php:46
+msgid "Center"
+msgstr "Centro"
+
+#: addons/tab/tab.php:32
+msgid "Horizontal Alignment"
+msgstr "Alineación horizontal"
+
+#: classes/Assets.php:121 addons/tab/tab.php:123
+msgid "Bottom"
+msgstr "Abajo"
+
+#: classes/Assets.php:120 addons/tab/tab.php:122
+msgid "Top"
+msgstr "Arriba"
+
+#: addons/tab/tab.php:43
+msgid "Navbar Position"
+msgstr "Posición de la barra de navegación"
+
+#: addons/soundcloud/soundcloud.php:65
+msgid "Controls Color"
+msgstr "Color de los controles"
+
+#: addons/soundcloud/soundcloud.php:60
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: addons/soundcloud/soundcloud.php:55
+msgid "Play Count"
+msgstr "Contador de reproduccciones"
+
+#: addons/soundcloud/soundcloud.php:50
+msgid "Share Button"
+msgstr "Botón de compartir"
+
+#: addons/soundcloud/soundcloud.php:45
+msgid "Download"
+msgstr "Descarga"
+
+#: addons/soundcloud/soundcloud.php:40
+msgid "Buy Button"
+msgstr "Botón de compra"
+
+#: addons/soundcloud/soundcloud.php:35
+msgid "Auto Play"
+msgstr "Auto-reproducción"
+
+#: addons/soundcloud/soundcloud.php:30
+msgid "Visual Player"
+msgstr "Reproductor visual"
+
+#: addons/soundcloud/soundcloud.php:25
+msgid "SoundCloud URL"
+msgstr "URL de SoundCloud"
+
+#: addons/social_button/social_button.php:189
+msgid "Social alignment"
+msgstr "Alineación botones redes sociales"
+
+#: addons/social_button/social_button.php:167
+msgid "Button Size"
+msgstr "Tamaño del botón"
+
+#: addons/social_button/social_button.php:138
+msgid "Social Shape"
+msgstr "Forma de los botones de redes sociales"
+
+#: addons/carousel/carousel.php:539 addons/social_button/social_button.php:99
+msgid "Button Background"
+msgstr "Fondo del botón"
+
+#: addons/social_button/social_button.php:62
+msgid "Social text"
+msgstr "Texto redes sociales"
+
+#: addons/raw_html/raw_html.php:50
+msgid "Link Hover Color"
+msgstr "Color del enlace al pasar el cursor"
+
+#: addons/raw_html/raw_html.php:44
+msgid "Link Color"
+msgstr "Color del enlace"
+
+#: addons/pricing_table/pricing_table.php:313
+#: addons/progress_bar/progress_bar.php:178
+#: addons/progress_bar/progress_bar.php:234
+msgid "Margin bottom"
+msgstr "Margen inferior"
+
+#: addons/progress_bar/progress_bar.php:132
+msgid "Custom overlay background"
+msgstr "Fondo de superposición personalizado"
+
+#: addons/progress_bar/progress_bar.php:118
+msgid "Custom background color"
+msgstr "Color de fondo personalizado"
+
+#: addons/progress_bar/progress_bar.php:88
+msgid "Overlay Radius"
+msgstr "Radio de la superposición"
+
+#: addons/progress_bar/progress_bar.php:73
+msgid "Show percentage"
+msgstr "Mostrar porcentaje"
+
+#: addons/progress_bar/progress_bar.php:68
+msgid "Show title"
+msgstr "Mostrar titulo"
+
+#: addons/progress_bar/progress_bar.php:63
+msgid "Show Striped"
+msgstr "Mostrar a rayas"
+
+#: addons/pricing_table/pricing_table.php:809
+#: addons/pricing_table/pricing_table.php:866
+#: addons/testimonial_carousel/testimonial_carousel.php:657
+#: addons/video_popup/video_popup.php:61
+msgid "hover color"
+msgstr "color al pasar el cursor"
+
+#: addons/pricing_table/pricing_table.php:765
+#: addons/testimonial_carousel/testimonial_carousel.php:316
+msgid "Text color"
+msgstr "Color del texto"
+
+#: addons/pricing_table/pricing_table.php:752
+msgid "Button display"
+msgstr "Mostrar botón"
+
+#: addons/pricing_table/pricing_table.php:585
+msgid "Pricing text color"
+msgstr "Color de texto de los precios"
+
+#: addons/pricing_table/pricing_table.php:561
+msgid "Pricing sales color"
+msgstr "Color del precio de las ofertas"
+
+#: addons/pricing_table/pricing_table.php:536
+msgid "Currency symbol color"
+msgstr "Color del símbolo de moneda"
+
+#: addons/pricing_table/pricing_table.php:511
+msgid "Icon border radius"
+msgstr "Radio del borde del icono"
+
+#: addons/pricing_table/pricing_table.php:468
+#: addons/video_popup/video_popup.php:199
+msgid "Icon Height"
+msgstr "Altura del icono"
+
+#: addons/pricing_table/pricing_table.php:437
+msgid "Icon Width"
+msgstr "Anchura del icono"
+
+#: addons/pricing_table/pricing_table.php:406
+msgid "Icon line height"
+msgstr "Altura de la línea del icono"
+
+#: addons/pricing_table/pricing_table.php:361
+msgid "Icon section background color"
+msgstr "Color de fondo del icono de sección"
+
+#: addons/pricing_table/pricing_table.php:354
+msgid "Icon Background"
+msgstr "Fondo del icono"
+
+#: addons/pricing_table/pricing_table.php:288
+msgid "Pricing sub Color"
+msgstr "Sub-color de precio"
+
+#: addons/pricing_table/pricing_table.php:174
+msgid "Even number bg color"
+msgstr "Color de fondo número par"
+
+#: addons/pricing_table/pricing_table.php:167
+msgid "Odd number bg color"
+msgstr "Color de fondo número impar"
+
+#: addons/pricing_table/pricing_table.php:145
+msgid "Aditional Info"
+msgstr "Información adicional"
+
+#: addons/pricing_table/pricing_table.php:70
+msgid "Pricing Features"
+msgstr "Características de precios"
+
+#: addons/pricing_table/pricing_table.php:60
+msgid "Period"
+msgstr "Período"
+
+#: addons/pricing_table/pricing_table.php:55
+msgid "Regular Price"
+msgstr "Precio habitual"
+
+#: addons/pricing_table/pricing_table.php:50
+msgid "Sales Price"
+msgstr "Precio de las ofertas"
+
+#: addons/pricing_table/pricing_table.php:45
+msgid "Currency symbol"
+msgstr "Símbolo de moneda"
+
+#: addons/posts/posts.php:1134
+msgid "Load More"
+msgstr "Cargar más"
+
+#: addons/posts/posts.php:1085
+msgid "Page"
+msgstr "Página"
+
+#: addons/posts/posts.php:940
+msgid "Read More »"
+msgstr "Leer más »"
+
+#: addons/posts/posts.php:781
+msgid "Navigation hover color"
+msgstr "Color de navegación al pasar el cursor"
+
+#: addons/posts/posts.php:772
+msgid "Navigation color"
+msgstr "Color de navegación"
+
+#: addons/text_block/text_block.php:43 addons/posts/posts.php:466
+msgid "Content color"
+msgstr "Color del contenido"
+
+#: addons/posts/posts.php:415
+msgid "Image height"
+msgstr "Altura de la imagen"
+
+#: addons/posts/posts.php:389
+msgid "Image width"
+msgstr "Anchura de la imagen"
+
+#: classes/Assets.php:126 addons/posts/posts.php:304
+msgid "Font Size"
+msgstr "Tamaño de la fuente"
+
+#: addons/posts/posts.php:270
+msgid "Meta item hover color"
+msgstr "Color del elemento meta al pasar el cursor"
+
+#: addons/posts/posts.php:263
+msgid "Meta item color"
+msgstr "Color del elemento meta"
+
+#: addons/posts/posts.php:224
+msgid "Title hover color"
+msgstr "Color del título al pasar el cursor"
+
+#: addons/posts/posts.php:217 addons/carousel/carousel.php:333
+msgid "Title color"
+msgstr "Color del título"
+
+#: addons/posts/posts.php:206
+msgid "Load More Page Ends"
+msgstr "Cargar más finales de página"
+
+#: addons/posts/posts.php:205
+msgid "Numbers"
+msgstr "Números"
+
+#: addons/posts/posts.php:204
+msgid "Next/Previous"
+msgstr "Siguiente/Anterior"
+
+#: addons/posts/posts.php:203
+msgid "Numbers With Next/Previous"
+msgstr "Números con Siguiente/Anterior"
+
+#: addons/posts/posts.php:201
+msgid "Pagination Type"
+msgstr "Tipo de paginación"
+
+#: addons/posts/posts.php:194
+msgid "Pagination"
+msgstr "Paginación"
+
+#: addons/posts/posts.php:185
+msgid "Exclude IDS"
+msgstr "Excluir IDS"
+
+#: addons/posts/posts.php:179
+msgid "IDS"
+msgstr "IDS"
+
+#: addons/posts/posts.php:172
+msgid "ASC"
+msgstr "ASC"
+
+#: addons/posts/posts.php:171
+msgid "DESC"
+msgstr "DESC"
+
+#: addons/posts/posts.php:169
+msgid "Order"
+msgstr "Orden"
+
+#: addons/posts/posts.php:161
+msgid "Random"
+msgstr "Aleatorio"
+
+#: addons/posts/posts.php:160
+msgid "Comment Count"
+msgstr "Contador de comentarios"
+
+#: addons/posts/posts.php:159
+msgid "Menu Order"
+msgstr "Orden del menú"
+
+#: addons/posts/posts.php:155
+msgid "Order By"
+msgstr "Ordenar por"
+
+#: classes/Options.php:79 addons/posts/posts.php:132
+msgid "Post Type"
+msgstr "Tipo de publicación"
+
+#: addons/posts/posts.php:125
+msgid "Read More Text"
+msgstr "Texto de «Leer más»"
+
+#: addons/posts/posts.php:120
+msgid "Read More"
+msgstr "Leer más"
+
+#: addons/posts/posts.php:115
+msgid "Separator"
+msgstr "Separador"
+
+#: classes/Assets.php:113 addons/posts/posts.php:109 addons/posts/posts.php:140
+msgid "Categories"
+msgstr "Categorías"
+
+#: addons/posts/posts.php:108 addons/posts/posts.php:148
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: addons/posts/posts.php:107 addons/posts/posts.php:1019
+msgid "Comments"
+msgstr "Comentarios"
+
+#: addons/posts/posts.php:106
+msgid "Time"
+msgstr "Hora"
+
+#: addons/posts/posts.php:105 addons/posts/posts.php:158
+msgid "Date"
+msgstr "Fecha"
+
+#: addons/posts/posts.php:104
+msgid "Author"
+msgstr "Autor"
+
+#: addons/posts/posts.php:102
+msgid "Meta Data"
+msgstr "Metadatos"
+
+#: addons/posts/posts.php:96
+msgid "Excerpt Length"
+msgstr "Longitud del extracto"
+
+#: addons/posts/posts.php:91
+msgid "Excerpt"
+msgstr "Extracto"
+
+#: addons/posts/posts.php:61
+msgid "Title Position"
+msgstr "Posición del título"
+
+#: addons/posts/posts.php:55
+msgid "Image Size"
+msgstr "Tamaño de la imagen"
+
+#: addons/posts/posts.php:50
+msgid "Posts Per Page"
+msgstr "Entradas por página"
+
+#: addons/pie_progress/pie_progress.php:73
+msgid "Border width"
+msgstr "Ancho del borde"
+
+#: addons/pie_progress/pie_progress.php:49
+msgid "Bar size"
+msgstr "Tamaño de la barra"
+
+#: addons/pie_progress/pie_progress.php:38
+msgid "Percentage"
+msgstr "Porcentaje"
+
+#: addons/testimonial_carousel/testimonial_carousel.php:832
+#: addons/person_carousel/person_carousel.php:1152
+msgid "Margin Right"
+msgstr "Margen derecho"
+
+#: addons/person_carousel/person_carousel.php:956
+msgid "Background hover color"
+msgstr "Color de fondo al pasar el ratón"
+
+#: addons/testimonial_carousel/testimonial_carousel.php:576
+#: addons/person_carousel/person_carousel.php:869
+msgid "Next Position"
+msgstr "Posición siguiente"
+
+#: addons/testimonial_carousel/testimonial_carousel.php:544
+#: addons/person_carousel/person_carousel.php:854
+msgid "Prev Position"
+msgstr "Posición anterior"
+
+#: addons/person_carousel/person_carousel.php:737
+msgid "Hover/active background"
+msgstr "Fondo al pasar el cursor/al pulsar el cursor"
+
+#: classes/Assets.php:116
+#: addons/testimonial_carousel/testimonial_carousel.php:377
+#: addons/testimonial_carousel/testimonial_carousel.php:512
+#: addons/person_carousel/person_carousel.php:698
+#: addons/person_carousel/person_carousel.php:822
+msgid "Position"
+msgstr "Posición"
+
+#: addons/testimonial_carousel/testimonial_carousel.php:145
+#: addons/person_carousel/person_carousel.php:248
+msgid "Column 6"
+msgstr "Columna 6"
+
+#: addons/testimonial_carousel/testimonial_carousel.php:144
+#: addons/person_carousel/person_carousel.php:247
+msgid "Column 5"
+msgstr "Columna 5"
+
+#: addons/testimonial_carousel/testimonial_carousel.php:143
+#: addons/person_carousel/person_carousel.php:246
+msgid "Column 4"
+msgstr "Columna 4"
+
+#: addons/testimonial_carousel/testimonial_carousel.php:142
+#: addons/person_carousel/person_carousel.php:245
+msgid "Column 3"
+msgstr "Columna 3"
+
+#: addons/testimonial_carousel/testimonial_carousel.php:141
+#: addons/person_carousel/person_carousel.php:244
+msgid "Column 2"
+msgstr "Columna 2"
+
+#: addons/testimonial_carousel/testimonial_carousel.php:140
+#: addons/person_carousel/person_carousel.php:243
+msgid "Column 1"
+msgstr "Columna 1"
+
+#: addons/posts/posts.php:37
+#: addons/testimonial_carousel/testimonial_carousel.php:138
+#: addons/person_carousel/person_carousel.php:241
+msgid "Column"
+msgstr "Columna"
+
+#: addons/testimonial_carousel/testimonial_carousel.php:130
+#: addons/person_carousel/person_carousel.php:233
+msgid "Nav Style 4"
+msgstr "Estilo de navegación 4"
+
+#: addons/testimonial_carousel/testimonial_carousel.php:129
+#: addons/person_carousel/person_carousel.php:232
+msgid "Nav Style 3"
+msgstr "Estilo de navegación 3"
+
+#: addons/testimonial_carousel/testimonial_carousel.php:128
+#: addons/person_carousel/person_carousel.php:231
+msgid "Nav Style 2"
+msgstr "Estilo de navegación 2"
+
+#: addons/testimonial_carousel/testimonial_carousel.php:127
+#: addons/person_carousel/person_carousel.php:230
+msgid "Nav Style 1"
+msgstr "Estilo de navegación 1"
+
+#: addons/testimonial_carousel/testimonial_carousel.php:119
+#: addons/person_carousel/person_carousel.php:222
+msgid "Control Nav"
+msgstr "Control de navegación"
+
+#: addons/testimonial_carousel/testimonial_carousel.php:113
+#: addons/person_carousel/person_carousel.php:216
+msgid "Control Dots"
+msgstr "Puntos de control"
+
+#: addons/carousel/carousel.php:86
+#: addons/person_carousel/person_carousel.php:203
+msgid "Autoplay Option"
+msgstr "Opciones de auto-reproducción"
+
+#: addons/person_carousel/person_carousel.php:195
+msgid "social URL 6"
+msgstr "URL redes sociales 6"
+
+#: addons/person_carousel/person_carousel.php:189
+msgid "Icon 6"
+msgstr "Icono 6"
+
+#: addons/person_carousel/person_carousel.php:183
+msgid "social URL 5"
+msgstr "URL redes sociales 5"
+
+#: addons/person_carousel/person_carousel.php:171
+msgid "social URL 4"
+msgstr "URL redes sociales 4"
+
+#: addons/person_carousel/person_carousel.php:165
+#: addons/person_carousel/person_carousel.php:177
+msgid "Icon 4"
+msgstr "Icono 4"
+
+#: addons/person_carousel/person_carousel.php:159
+msgid "social URL 3"
+msgstr "URL redes sociales 3"
+
+#: addons/person_carousel/person_carousel.php:153
+msgid "Icon 3"
+msgstr "Icono 3"
+
+#: addons/person_carousel/person_carousel.php:147
+msgid "social URL 2"
+msgstr "URL redes sociales 2"
+
+#: addons/person_carousel/person_carousel.php:141
+msgid "Icon 2"
+msgstr "Icono 2"
+
+#: addons/person_carousel/person_carousel.php:135
+msgid "social URL 1"
+msgstr "URL redes sociales 1"
+
+#: addons/person_carousel/person_carousel.php:129
+msgid "Icon 1"
+msgstr "Icono 1"
+
+#: addons/testimonial/testimonial.php:58
+#: addons/person_carousel/person_carousel.php:119
+msgid "Message text"
+msgstr "Texto del mensaje"
+
+#: addons/person_carousel/person_carousel.php:114
+msgid "designation"
+msgstr "denominación"
+
+#: addons/person_carousel/person_carousel.php:109
+msgid "email"
+msgstr "correo electrónico"
+
+#: addons/person_carousel/person_carousel.php:43
+msgid "Person List"
+msgstr "Lista de personas"
+
+#: classes/Assets.php:119 addons/person/person.php:525 addons/tab/tab.php:138
+#: addons/tab/tab.php:175
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: addons/person/person.php:98 addons/social_button/social_button.php:57
+msgid "Social URL"
+msgstr "URL redes sociales"
+
+#: addons/person/person.php:93
+msgid "Icon List"
+msgstr "Lista de iconos"
+
+#: addons/person/person.php:56
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: addons/testimonial/testimonial.php:53
+#: addons/testimonial_carousel/testimonial_carousel.php:87
+#: addons/person/person.php:51
+msgid "Designation"
+msgstr "Denominación"
+
+#: classes/Assets.php:114 addons/testimonial/testimonial.php:43
+#: addons/testimonial_carousel/testimonial_carousel.php:77
+#: addons/person/person.php:41 addons/person_carousel/person_carousel.php:99
+msgid "Name"
+msgstr "Nombre"
+
+#: classes/Assets.php:115 addons/testimonial/testimonial.php:37
+#: addons/testimonial_carousel/testimonial_carousel.php:72
+#: addons/carousel/carousel.php:241 addons/person/person.php:36
+#: addons/person_carousel/person_carousel.php:94
+msgid "Image"
+msgstr "Imagen"
+
+#: addons/image_hover/image_hover.php:530
+#: addons/image_hover/image_hover.php:543
+#: addons/image_hover/image_hover.php:556
+#: addons/image_hover/image_hover.php:564
+#: addons/image_hover/image_hover.php:595
+#: addons/image_hover/image_hover.php:604
+#: addons/image_hover/image_hover.php:635
+msgid "Border"
+msgstr "Borde"
+
+#: addons/image_hover/image_hover.php:510
+msgid "Button margin"
+msgstr "Margen del botón"
+
+#: addons/image_hover/image_hover.php:480
+msgid "Border hover radius"
+msgstr "Radio del borde al pasar el cursor"
+
+#: addons/image_hover/image_hover.php:349
+msgid "Sub title margin"
+msgstr "Margen del subtítulo"
+
+#: addons/image_hover/image_hover.php:327
+#: addons/image_hover/image_hover.php:343
+#: addons/image_hover/image_hover.php:351
+#: addons/image_hover/image_hover.php:366
+msgid "Sub Title"
+msgstr "Subtitulo"
+
+#: addons/image_hover/image_hover.php:309
+#: addons/image_hover/image_hover.php:364
+msgid "Title padding"
+msgstr "Padding del título"
+
+#: addons/image_hover/image_hover.php:294
+msgid "Title margin"
+msgstr "Margen del título"
+
+#: addons/image_hover/image_hover.php:237
+msgid "Wrap padding"
+msgstr "Margen interior del contenedor"
+
+#: addons/image_hover/image_hover.php:198
+msgid "Slide From Bottom"
+msgstr "Deslizar desde abajo"
+
+#: addons/image_hover/image_hover.php:197
+msgid "Slide From Top"
+msgstr "Deslizar desde arriba"
+
+#: addons/image_hover/image_hover.php:196
+msgid "Slide From Left"
+msgstr "Deslizar desde la izquierda"
+
+#: addons/image_hover/image_hover.php:195
+msgid "Slide from Right"
+msgstr "Deslizar desde la derecha"
+
+#: addons/image_hover/image_hover.php:193
+msgid "Animation image effect"
+msgstr "Efecto de la animación de la imagen"
+
+#: addons/image_hover/image_hover.php:177
+msgid "Overlay Background"
+msgstr "Fondo de la superposición"
+
+#: addons/image_hover/image_hover.php:141
+msgid "Add button link"
+msgstr "Añadir botón de enlace"
+
+#: addons/image_hover/image_hover.php:109
+msgid "Sub title HTML Element"
+msgstr "Elemento HTML del subtitulo"
+
+#: addons/image_hover/image_hover.php:88
+msgid "Add title link"
+msgstr "Añadir enlace del título"
+
+#: addons/image_hover/image_hover.php:69
+msgid "Title HTML Element"
+msgstr "Elemento HTML del título"
+
+#: addons/image_hover/image_hover.php:48
+msgid "Bottom Right"
+msgstr "Abajo derecha"
+
+#: addons/image_hover/image_hover.php:47
+msgid "Bottom Center"
+msgstr "Abajo centro"
+
+#: addons/image_hover/image_hover.php:46
+msgid "Bottom Left"
+msgstr "Abajo izquierda"
+
+#: addons/image_hover/image_hover.php:45
+msgid "Middle Right"
+msgstr "En medio y a la derecha"
+
+#: addons/image_hover/image_hover.php:44
+msgid "Middle Center"
+msgstr "En medio y en el Centro"
+
+#: addons/image_hover/image_hover.php:43
+msgid "Middle Left"
+msgstr "En medio y a la izquierda"
+
+#: addons/image_hover/image_hover.php:42
+msgid "Top Right"
+msgstr "Arriba derecha"
+
+#: addons/image_hover/image_hover.php:41
+msgid "Top Center"
+msgstr "Arriba centro"
+
+#: addons/image_hover/image_hover.php:40
+msgid "Top Left"
+msgstr "Arriba izquierda"
+
+#: addons/image_hover/image_hover.php:38
+msgid "Content Position"
+msgstr "Posición del contenido"
+
+#: addons/image_hover/image_hover.php:24
+msgid "Select layout"
+msgstr "Seleccionar diseño"
+
+#: addons/image/image.php:212
+msgid "icon color"
+msgstr "Color del icono"
+
+#: addons/image/image.php:155 addons/social_button/social_button.php:158
+msgid "Hover border radius"
+msgstr "Radio del borde al pasar el cursor"
+
+#: addons/image/image.php:146
+msgid "border radius"
+msgstr "radio del borde"
+
+#: addons/pricing_table/pricing_table.php:756 addons/image/image.php:68
+msgid "Inline"
+msgstr "Integrado"
+
+#: addons/pricing_table/pricing_table.php:755 addons/image/image.php:67
+msgid "Inline Block"
+msgstr "Bloque integrado"
+
+#: addons/pricing_table/pricing_table.php:754 addons/image/image.php:66
+msgid "Block"
+msgstr "Bloque"
+
+#: addons/image/image.php:64
+msgid "Image display"
+msgstr "Mostrar imagen"
+
+#: addons/image/image.php:48
+msgid "Enable Popup"
+msgstr "Activar mensaje emergente"
+
+#: addons/image/image.php:38
+msgid "alt"
+msgstr "alt"
+
+#: addons/image/image.php:33
+msgid "Upload image"
+msgstr "Subir imagen"
+
+#: addons/icon/icon.php:180
+msgid "Hover Color"
+msgstr "Color al pasar el cursor"
+
+#: addons/heading/heading.php:66
+msgid "link hover color"
+msgstr "color del link al pasar el cursor"
+
+#: addons/form/form.php:126
+msgid "WeForm"
+msgstr "WeForm"
+
+#: addons/form/form.php:120
+msgid "Contact form 7"
+msgstr "Contact form 7"
+
+#: addons/flip_box/flip_box.php:996
+msgid "Button Margin"
+msgstr "Margen del botón"
+
+#: addons/flip_box/flip_box.php:987
+msgid "Button Padding"
+msgstr "Padding del botón"
+
+#: addons/flip_box/flip_box.php:973
+msgid "Border Radius hover"
+msgstr "Radio del borde al pasar el cursor"
+
+#: addons/social_button/social_button.php:109 addons/flip_box/flip_box.php:928
+msgid "Button hover background"
+msgstr "Fondo del botón al pasar el ratón"
+
+#: addons/posts/posts.php:505 addons/posts/posts.php:621
+#: addons/social_button/social_button.php:82 addons/flip_box/flip_box.php:907
+msgid "Button color"
+msgstr "Color del botón"
+
+#: addons/flip_box/flip_box.php:609
+msgid "Back Intro text color"
+msgstr "Color de fondo del texto introductorio"
+
+#: addons/flip_box/flip_box.php:569
+msgid "Back Color"
+msgstr "Color de fondo"
+
+#: addons/flip_box/flip_box.php:557 addons/flip_box/flip_box.php:873
+msgid "Icon margin"
+msgstr "Margen del icono"
+
+#: addons/flip_box/flip_box.php:548 addons/flip_box/flip_box.php:864
+msgid "Icon hover background"
+msgstr "Fondo del icono al pasar el cursor"
+
+#: addons/flip_box/flip_box.php:540 addons/flip_box/flip_box.php:856
+msgid "Icon background"
+msgstr "Fondo del icono"
+
+#: addons/flip_box/flip_box.php:533 addons/flip_box/flip_box.php:849
+msgid "Icon hover color"
+msgstr "Color del icono al pasar el cursor"
+
+#: addons/pricing_table/pricing_table.php:108 addons/flip_box/flip_box.php:525
+#: addons/flip_box/flip_box.php:841
+msgid "Icon color"
+msgstr "Color del icono"
+
+#: addons/flip_box/flip_box.php:480 addons/flip_box/flip_box.php:796
+msgid "Icon height"
+msgstr "Altura del icono"
+
+#: addons/flip_box/flip_box.php:416 addons/flip_box/flip_box.php:732
+msgid "Icon size"
+msgstr "Tamaño del icono"
+
+#: addons/flip_box/flip_box.php:398 addons/flip_box/flip_box.php:713
+msgid "Image margin"
+msgstr "Margen de la imagen"
+
+#: addons/flip_box/flip_box.php:361 addons/flip_box/flip_box.php:676
+msgid "Image Height"
+msgstr "Altura de la imagen"
+
+#: addons/flip_box/flip_box.php:334 addons/flip_box/flip_box.php:649
+msgid "Image Width"
+msgstr "Anchura de la imagen"
+
+#: addons/flip_box/flip_box.php:317 addons/flip_box/flip_box.php:632
+msgid "Intro text margin"
+msgstr "Margen del texto de introducción"
+
+#: addons/flip_box/flip_box.php:277 addons/flip_box/flip_box.php:592
+msgid "MARGIN"
+msgstr "MARGEN"
+
+#: addons/flip_box/flip_box.php:202
+msgid "BUTTON LINK"
+msgstr "ENLACE DEL BOTÓN"
+
+#: addons/icon/icon.php:193 addons/pie_progress/pie_progress.php:186
+#: addons/testimonial_carousel/testimonial_carousel.php:411
+#: addons/person/person.php:113 addons/person/person.php:371
+#: addons/person_carousel/person_carousel.php:634
+#: addons/person_carousel/person_carousel.php:730
+#: addons/flip_box/flip_box.php:151 addons/flip_box/flip_box.php:237
+msgid "background"
+msgstr "fondo"
+
+#: addons/flip_box/flip_box.php:143 addons/flip_box/flip_box.php:229
+msgid "Image alt text"
+msgstr "Texto «alt» de la imagen"
+
+#: addons/flip_box/flip_box.php:123 addons/flip_box/flip_box.php:209
+msgid "Show icon"
+msgstr "Mostrar icono"
+
+#: addons/text_block/text_block.php:25 addons/raw_html/raw_html.php:24
+#: addons/tab/tab.php:129 addons/flip_box/flip_box.php:117
+#: addons/flip_box/flip_box.php:190
+msgid "Content"
+msgstr "Contenido"
+
+#: addons/flip_box/flip_box.php:52
+msgid "From right"
+msgstr "Desde la derecha"
+
+#: addons/flip_box/flip_box.php:51
+msgid "From left"
+msgstr "Desde la izquierda"
+
+#: addons/flip_box/flip_box.php:50
+msgid "From bottom"
+msgstr "Desde abajo"
+
+#: addons/flip_box/flip_box.php:49
+msgid "From top"
+msgstr "Desde arriba"
+
+#: addons/flip_box/flip_box.php:47
+msgid "Direction"
+msgstr "Dirección"
+
+#: addons/flip_box/flip_box.php:39
+msgid "Fade"
+msgstr "Desvanecimiento"
+
+#: addons/flip_box/flip_box.php:38
+msgid "Slide"
+msgstr "Deslizar"
+
+#: addons/flip_box/flip_box.php:37
+msgid "Rotate"
+msgstr "Rotar"
+
+#: addons/flip_box/flip_box.php:28
+msgid "Click"
+msgstr "Clic"
+
+#: classes/Assets.php:115 addons/flip_box/flip_box.php:27
+msgid "Hover"
+msgstr "Al pasar el cursor"
+
+#: addons/feature_box/feature_box.php:998
+msgid "Bar Vertical"
+msgstr "Barra vertical"
+
+#: addons/feature_box/feature_box.php:966
+msgid "Bar Horizontal"
+msgstr "Barra horizontal"
+
+#: addons/feature_box/feature_box.php:934
+#: addons/image_hover/image_hover.php:569
+#: addons/image_hover/image_hover.php:609
+msgid "Bar Height"
+msgstr "Altura de la barra"
+
+#: addons/posts/posts.php:584 addons/posts/posts.php:725
+#: addons/feature_box/feature_box.php:869
+msgid "hover border radius"
+msgstr "radio del borde al pasar el cursor"
+
+#: addons/testimonial/testimonial.php:134 addons/posts/posts.php:441
+#: addons/feature_box/feature_box.php:707 addons/video/video.php:111
+#: addons/testimonial_carousel/testimonial_carousel.php:223
+#: addons/testimonial_carousel/testimonial_carousel.php:496
+#: addons/testimonial_carousel/testimonial_carousel.php:740
+#: addons/carousel/carousel.php:586 addons/carousel/carousel.php:875
+#: addons/carousel/carousel.php:996 addons/person/person.php:195
+#: addons/person_carousel/person_carousel.php:326
+#: addons/person_carousel/person_carousel.php:806
+#: addons/person_carousel/person_carousel.php:1061
+#: addons/progress_bar/progress_bar.php:80 addons/flip_box/flip_box.php:84
+#: addons/flip_box/flip_box.php:388 addons/flip_box/flip_box.php:703
+#: addons/flip_box/flip_box.php:959
+msgid "Border Radius"
+msgstr "Radio del borde"
+
+#: classes/Assets.php:125 addons/soundcloud/soundcloud.php:71
+#: addons/testimonial/testimonial.php:103
+#: addons/feature_box/feature_box.php:522
+#: addons/feature_box/feature_box.php:681 addons/image/image.php:115
+#: addons/video/video.php:81 addons/icon/icon.php:104
+#: addons/pie_progress/pie_progress.php:224
+#: addons/testimonial_carousel/testimonial_carousel.php:192
+#: addons/testimonial_carousel/testimonial_carousel.php:456
+#: addons/testimonial_carousel/testimonial_carousel.php:705
+#: addons/person/person.php:169 addons/person/person.php:447
+#: addons/tab/tab.php:542 addons/image_hover/image_hover.php:207
+#: addons/person_carousel/person_carousel.php:295
+#: addons/person_carousel/person_carousel.php:553
+#: addons/person_carousel/person_carousel.php:775
+#: addons/person_carousel/person_carousel.php:996
+#: addons/progress_bar/progress_bar.php:50 addons/flip_box/flip_box.php:59
+msgid "Height"
+msgstr "Altura"
+
+#: classes/Assets.php:120 addons/feature_box/feature_box.php:394
+msgid "Vertical"
+msgstr "Vertical"
+
+#: classes/Assets.php:119 addons/feature_box/feature_box.php:362
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: addons/posts/posts.php:450 addons/feature_box/feature_box.php:332
+#: addons/feature_box/feature_box.php:762
+#: addons/feature_box/feature_box.php:892
+msgid "margin"
+msgstr "margen"
+
+#: addons/feature_box/feature_box.php:309
+#: addons/testimonial_carousel/testimonial_carousel.php:259
+#: addons/video_popup/video_popup.php:54
+#: addons/person_carousel/person_carousel.php:421
+#: addons/person_carousel/person_carousel.php:455
+#: addons/person_carousel/person_carousel.php:932
+#: addons/flip_box/flip_box.php:294
+msgid "color"
+msgstr "color"
+
+#: addons/feature_box/feature_box.php:298
+msgid "Padding"
+msgstr "Padding"
+
+#: addons/feature_box/feature_box.php:253
+#: addons/feature_box/feature_box.php:341
+#: addons/feature_box/feature_box.php:443
+msgid "padding"
+msgstr "padding"
+
+#: addons/feature_box/feature_box.php:244
+#: addons/feature_box/feature_box.php:289
+#: addons/feature_box/feature_box.php:639
+msgid "Margin"
+msgstr "Margen"
+
+#: addons/pricing_table/pricing_table.php:134
+#: addons/feature_box/feature_box.php:191 addons/form/form.php:426
+#: addons/image_hover/image_hover.php:155
+msgid "Button icon position"
+msgstr "Posición del icono del botón"
+
+#: addons/pricing_table/pricing_table.php:128
+#: addons/feature_box/feature_box.php:186 addons/form/form.php:419
+#: addons/image_hover/image_hover.php:148
+msgid "Button icon"
+msgstr "Icono del botón"
+
+#: addons/pricing_table/pricing_table.php:122
+#: addons/feature_box/feature_box.php:181
+msgid "Button Link"
+msgstr "Enlace del botón"
+
+#: addons/pricing_table/pricing_table.php:116
+#: addons/feature_box/feature_box.php:176 addons/form/form.php:412
+#: addons/carousel/carousel.php:487 addons/image_hover/image_hover.php:134
+#: addons/flip_box/flip_box.php:196
+msgid "Button text"
+msgstr "Texto del botón"
+
+#: addons/feature_box/feature_box.php:159 addons/flip_box/flip_box.php:136
+#: addons/flip_box/flip_box.php:222
+msgid "Upload feature image"
+msgstr "Subir imagen destacada"
+
+#: addons/pricing_table/pricing_table.php:65
+#: addons/feature_box/feature_box.php:143
+#: addons/pie_progress/pie_progress.php:89 addons/flip_box/flip_box.php:129
+#: addons/flip_box/flip_box.php:215
+msgid "Icon list"
+msgstr "Lista de iconos"
+
+#: addons/feature_box/feature_box.php:137
+msgid "Show Image"
+msgstr "Mostrar imagen"
+
+#: addons/feature_box/feature_box.php:123 addons/person/person.php:61
+msgid "Intro text"
+msgstr "Texto introductorio"
+
+#: addons/feature_box/feature_box.php:106
+msgid "Number"
+msgstr "Número"
+
+#: addons/feature_box/feature_box.php:80 addons/carousel/carousel.php:375
+msgid "Sub Title Tag"
+msgstr "Etiqueta del subtitulo"
+
+#: addons/pricing_table/pricing_table.php:39
+#: addons/feature_box/feature_box.php:75 addons/tab/tab.php:107
+#: addons/image_hover/image_hover.php:102
+msgid "Sub title"
+msgstr "Subtítulo"
+
+#: addons/posts/posts.php:75 addons/feature_box/feature_box.php:43
+#: addons/heading/heading.php:31 addons/carousel/carousel.php:309
+#: addons/flip_box/flip_box.php:100 addons/flip_box/flip_box.php:173
+msgid "Title Tag"
+msgstr "Etiqueta del título"
+
+#: addons/feature_box/feature_box.php:24
+msgid "Layout"
+msgstr "Diseño"
+
+#: classes/Assets.php:115 addons/pricing_table/pricing_table.php:227
+#: addons/pricing_table/pricing_table.php:679
+#: addons/button_group/button_group.php:96 addons/form/form.php:728
+#: addons/image_hover/image_hover.php:166
+msgid "Background"
+msgstr "Fondo"
+
+#: addons/pricing_table/pricing_table.php:670
+#: addons/button_group/button_group.php:90 addons/form/form.php:720
+#: addons/person/person.php:108 addons/person/person.php:364
+#: addons/person_carousel/person_carousel.php:627
+#: addons/person_carousel/person_carousel.php:948
+msgid "Hover color"
+msgstr "Color al pasar el cursor"
+
+#: classes/Assets.php:119 addons/button_group/button_group.php:68
+#: addons/social_button/social_button.php:66
+#: addons/person_carousel/person_carousel.php:228
+#: addons/flip_box/flip_box.php:35
+msgid "Style"
+msgstr "Estilo"
+
+#: addons/button_group/button_group.php:25
+#: addons/image_hover/image_hover.php:387
+#: addons/image_hover/image_hover.php:397
+#: addons/image_hover/image_hover.php:406
+#: addons/image_hover/image_hover.php:420
+#: addons/image_hover/image_hover.php:434
+#: addons/image_hover/image_hover.php:446
+#: addons/image_hover/image_hover.php:459
+#: addons/image_hover/image_hover.php:474
+#: addons/image_hover/image_hover.php:489
+#: addons/image_hover/image_hover.php:504
+#: addons/image_hover/image_hover.php:512
+msgid "Button"
+msgstr "Botón"
+
+#: addons/pricing_table/pricing_table.php:688
+#: addons/button_group/button_group.php:102 addons/form/form.php:742
+#: addons/icon/icon.php:206 addons/button/button.php:178
+#: addons/person/person.php:123 addons/person/person.php:378
+#: addons/person_carousel/person_carousel.php:641
+msgid "Hover background"
+msgstr "Fondo al pasar el cursor"
+
+#: addons/button/button.php:169 addons/flip_box/flip_box.php:921
+msgid "Button background"
+msgstr "Fondo del botón"
+
+#: addons/posts/posts.php:512 addons/posts/posts.php:630
+#: addons/button/button.php:161 addons/social_button/social_button.php:88
+#: addons/flip_box/flip_box.php:914
+msgid "Button hover color"
+msgstr "Color del botón al pasar el ratón"
+
+#: addons/form/form.php:442 addons/button/button.php:104
+msgid "No"
+msgstr "No"
+
+#: addons/form/form.php:441 addons/button/button.php:103
+msgid "Yes"
+msgstr "Sí"
+
+#: addons/form/form.php:439 addons/button/button.php:101
+msgid "Full Width"
+msgstr "Ancho completo"
+
+#: addons/flip_box/flip_box.php:40
+msgid "3D"
+msgstr "3D"
+
+#: addons/button_group/button_group.php:133 addons/button/button.php:77
+#: addons/social_button/social_button.php:142
+msgid "Round"
+msgstr "Redondo"
+
+#: addons/button_group/button_group.php:132 addons/button/button.php:76
+#: addons/social_button/social_button.php:141
+msgid "Square"
+msgstr "Cuadrado"
+
+#: addons/button_group/button_group.php:131 addons/button/button.php:75
+#: addons/social_button/social_button.php:140
+msgid "Rounded"
+msgstr "Redondeado"
+
+#: addons/button_group/button_group.php:129 addons/button/button.php:73
+msgid "Shape"
+msgstr "Forma"
+
+#: addons/button_group/button_group.php:114 addons/button/button.php:57
+#: addons/social_button/social_button.php:173
+msgid "Extra Small"
+msgstr "Extra pequeño"
+
+#: addons/button_group/button_group.php:113 addons/button/button.php:56
+#: addons/social_button/social_button.php:172
+msgid "Small"
+msgstr "Pequeño"
+
+#: addons/button_group/button_group.php:112 addons/button/button.php:55
+#: addons/social_button/social_button.php:171
+msgid "Extra Large"
+msgstr "Extra grande"
+
+#: addons/button_group/button_group.php:111 addons/button/button.php:54
+#: addons/social_button/social_button.php:170
+msgid "Large"
+msgstr "Grande"
+
+#: addons/button_group/button_group.php:110 addons/button/button.php:53
+#: addons/social_button/social_button.php:169
+msgid "Standard"
+msgstr "Estándar"
+
+#: classes/Assets.php:117 addons/testimonial/testimonial.php:271
+#: addons/button_group/button_group.php:108
+#: addons/feature_box/feature_box.php:455 addons/icon/icon.php:43
+#: addons/pie_progress/pie_progress.php:148 addons/button/button.php:51
+#: addons/person/person.php:385 addons/tab/tab.php:418
+#: addons/video_popup/video_popup.php:106
+#: addons/person_carousel/person_carousel.php:489
+msgid "Size"
+msgstr "Tamaño"
+
+#: addons/button_group/button_group.php:153 addons/button/button.php:39
+#: addons/tab/tab.php:117
+msgid "Icon position"
+msgstr "Posición del icono"
+
+#: addons/testimonial/testimonial.php:48
+#: addons/button_group/button_group.php:63
+#: addons/button_group/button_group.php:77
+#: addons/feature_box/feature_box.php:60 addons/image/image.php:58
+#: addons/icon/icon.php:30 addons/heading/heading.php:47
+#: addons/testimonial_carousel/testimonial_carousel.php:82
+#: addons/button/button.php:29 addons/button/button.php:144
+#: addons/social_button/social_button.php:75
+msgid "Link"
+msgstr "Enlace"
+
+#: addons/button_group/button_group.php:58 addons/button/button.php:24
+msgid "Text"
+msgstr "Texto"
+
+#: addons/blocknumber/blocknumber.php:143
+msgid "Number border radius"
+msgstr "Radio del borde del número"
+
+#: addons/blocknumber/blocknumber.php:84
+msgid "Number Height"
+msgstr "Altura del número"
+
+#: addons/blocknumber/blocknumber.php:54
+msgid "Number Width"
+msgstr "Ancho del número"
+
+#: addons/blocknumber/blocknumber.php:47
+msgid "Number background color"
+msgstr "Color de fondo del número"
+
+#: addons/blocknumber/blocknumber.php:34
+msgid "Add Description"
+msgstr "Añadir descripción"
+
+#: addons/blocknumber/blocknumber.php:24
+msgid "Block Number"
+msgstr "Número de bloque"
+
+#: addons/animated_number/animated_number.php:88
+#: addons/blocknumber/blocknumber.php:40
+msgid "Number color"
+msgstr "Color del número"
+
+#: addons/animated_number/animated_number.php:79
+msgid "Counter alignment"
+msgstr "Alineación del contador"
+
+#: addons/animated_number/animated_number.php:55
+msgid "Counter title"
+msgstr "Título del contador"
+
+#: addons/animated_number/animated_number.php:50
+msgid "Animation duration"
+msgstr "Duración de la animación"
+
+#: addons/animated_number/animated_number.php:36
+msgid "Counter digit"
+msgstr "Número del contador"
+
+#: addons/pricing_table/pricing_table.php:257
+#: addons/pricing_table/pricing_table.php:720
+#: addons/pricing_table/pricing_table.php:816
+#: addons/pricing_table/pricing_table.php:874
+#: addons/testimonial/testimonial.php:356
+#: addons/button_group/button_group.php:140 addons/posts/posts.php:575
+#: addons/posts/posts.php:710 addons/posts/posts.php:863
+#: addons/feature_box/feature_box.php:630
+#: addons/feature_box/feature_box.php:855
+#: addons/pie_progress/pie_progress.php:258
+#: addons/testimonial_carousel/testimonial_carousel.php:802
+#: addons/person/person.php:478 addons/person/person.php:551
+#: addons/alert/alert.php:136 addons/tab/tab.php:577
+#: addons/social_button/social_button.php:150
+#: addons/image_hover/image_hover.php:465
+#: addons/person_carousel/person_carousel.php:648
+#: addons/person_carousel/person_carousel.php:1123
+#: addons/flip_box/flip_box.php:515 addons/flip_box/flip_box.php:831
+msgid "Border radius"
+msgstr "Radio del borde"
+
+#: addons/blocknumber/blocknumber.php:183 addons/alert/alert.php:102
+msgid "Description color"
+msgstr "Color de la descripción"
+
+#: addons/alert/alert.php:70
+msgid "Close hover color"
+msgstr "Color del cierre al pasar el cursor"
+
+#: addons/alert/alert.php:63
+msgid "Close color"
+msgstr "Color del cierre"
+
+#: addons/alert/alert.php:56
+msgid "Content background color"
+msgstr "Color del contenido del fondo"
+
+#: addons/button_group/button_group.php:78
+#: addons/button_group/button_group.php:115
+#: addons/button_group/button_group.php:134 addons/button/button.php:58
+#: addons/button/button.php:78 addons/button/button.php:145
+#: addons/alert/alert.php:49 addons/social_button/social_button.php:76
+#: addons/social_button/social_button.php:143
+#: addons/social_button/social_button.php:174
+#: addons/progress_bar/progress_bar.php:110
+msgid "Custom"
+msgstr "Personalizado"
+
+#: addons/button_group/button_group.php:76 addons/button/button.php:143
+#: addons/alert/alert.php:48 addons/social_button/social_button.php:74
+#: addons/progress_bar/progress_bar.php:109
+msgid "Dark"
+msgstr "Oscuro"
+
+#: addons/button_group/button_group.php:75 addons/button/button.php:142
+#: addons/alert/alert.php:47 addons/social_button/social_button.php:73
+#: addons/progress_bar/progress_bar.php:108
+msgid "Light"
+msgstr "Claro"
+
+#: addons/button_group/button_group.php:74 addons/button/button.php:141
+#: addons/alert/alert.php:46 addons/social_button/social_button.php:72
+#: addons/progress_bar/progress_bar.php:107
+msgid "Danger"
+msgstr "Peligro"
+
+#: addons/button_group/button_group.php:73 addons/button/button.php:140
+#: addons/alert/alert.php:45 addons/social_button/social_button.php:71
+#: addons/progress_bar/progress_bar.php:106
+msgid "Warning"
+msgstr "Advertencia"
+
+#: addons/button_group/button_group.php:72 addons/button/button.php:139
+#: addons/alert/alert.php:44 addons/social_button/social_button.php:70
+#: addons/progress_bar/progress_bar.php:105
+msgid "Info"
+msgstr "Información"
+
+#: addons/button_group/button_group.php:70 addons/button/button.php:137
+#: addons/alert/alert.php:42 addons/social_button/social_button.php:68
+#: addons/progress_bar/progress_bar.php:103
+msgid "Primary"
+msgstr "Principal"
+
+#: addons/alert/alert.php:40
+msgid "Alert style"
+msgstr "Estilo de la alerta"
+
+#: addons/alert/alert.php:34
+msgid "Show Close Button"
+msgstr "Mostrar botón de cierre"
+
+#: addons/alert/alert.php:29
+msgid "Description"
+msgstr "Descripción"
+
+#: addons/pricing_table/pricing_table.php:34
+#: addons/pricing_table/pricing_table.php:98 addons/posts/posts.php:70
+#: addons/posts/posts.php:157 addons/feature_box/feature_box.php:38
+#: addons/blocknumber/blocknumber.php:29 addons/heading/heading.php:25
+#: addons/pie_progress/pie_progress.php:83 addons/carousel/carousel.php:303
+#: addons/alert/alert.php:24 addons/tab/tab.php:102
+#: addons/image_hover/image_hover.php:62 addons/image_hover/image_hover.php:251
+#: addons/image_hover/image_hover.php:260
+#: addons/image_hover/image_hover.php:269
+#: addons/image_hover/image_hover.php:288
+#: addons/image_hover/image_hover.php:296
+#: addons/image_hover/image_hover.php:311
+#: addons/progress_bar/progress_bar.php:34 addons/flip_box/flip_box.php:94
+#: addons/flip_box/flip_box.php:167
+msgid "Title"
+msgstr "Título"
+
+#: addons/pricing_table/pricing_table.php:151
+#: addons/text_block/text_block.php:35 addons/testimonial/testimonial.php:64
+#: addons/button_group/button_group.php:186 addons/posts/posts.php:611
+#: addons/posts/posts.php:760 addons/posts/posts.php:903
+#: addons/feature_box/feature_box.php:201 addons/form/form.php:837
+#: addons/image/image.php:74 addons/raw_html/raw_html.php:30
+#: addons/accordion/accordion.php:396 addons/icon/icon.php:34
+#: addons/heading/heading.php:52 addons/pie_progress/pie_progress.php:96
+#: addons/button/button.php:111 addons/person/person.php:135
+#: addons/tab/tab.php:241 addons/tab/tab.php:587 addons/tab/tab.php:708
+#: addons/person_carousel/person_carousel.php:255
+#: addons/flip_box/flip_box.php:158 addons/flip_box/flip_box.php:244
+msgid "Alignment"
+msgstr "Alineación"
+
+#: addons/image/image.php:221 addons/accordion/accordion.php:337
+#: addons/tab/tab.php:495 addons/tab/tab.php:620
+#: addons/person_carousel/person_carousel.php:940
+msgid "Background color"
+msgstr "Color de fondo"
+
+#: addons/accordion/accordion.php:320
+msgid "Navigation icon active color"
+msgstr "Color del icono de navegación activo"
+
+#: addons/accordion/accordion.php:311
+msgid "Navigation icon color"
+msgstr "Color del icono de navegación"
+
+#: addons/accordion/accordion.php:285
+msgid "Navigation Icon Size"
+msgstr "Tamaño del icono de navegación"
+
+#: classes/Assets.php:115 addons/animated_number/animated_number.php:128
+#: addons/animated_number/animated_number.php:168
+#: addons/animated_number/animated_number.php:266
+#: addons/pricing_table/pricing_table.php:160
+#: addons/pricing_table/pricing_table.php:220
+#: addons/pricing_table/pricing_table.php:619
+#: addons/pricing_table/pricing_table.php:661
+#: addons/testimonial/testimonial.php:170
+#: addons/testimonial/testimonial.php:204
+#: addons/testimonial/testimonial.php:229
+#: addons/testimonial/testimonial.php:263
+#: addons/button_group/button_group.php:84 addons/posts/posts.php:366
+#: addons/form/form.php:712 addons/image/image.php:231
+#: addons/blocknumber/blocknumber.php:159 addons/raw_html/raw_html.php:38
+#: addons/accordion/accordion.php:269 addons/accordion/accordion.php:329
+#: addons/icon/icon.php:167 addons/heading/heading.php:58
+#: addons/pie_progress/pie_progress.php:105
+#: addons/pie_progress/pie_progress.php:179
+#: addons/testimonial_carousel/testimonial_carousel.php:292
+#: addons/testimonial_carousel/testimonial_carousel.php:350
+#: addons/testimonial_carousel/testimonial_carousel.php:641
+#: addons/button/button.php:153 addons/person/person.php:103
+#: addons/person/person.php:227 addons/person/person.php:263
+#: addons/person/person.php:297 addons/person/person.php:332
+#: addons/person/person.php:357 addons/alert/alert.php:77
+#: addons/tab/tab.php:352 addons/tab/tab.php:393 addons/tab/tab.php:480
+#: addons/tab/tab.php:612 addons/person_carousel/person_carousel.php:349
+#: addons/person_carousel/person_carousel.php:397
+#: addons/person_carousel/person_carousel.php:620
+#: addons/progress_bar/progress_bar.php:148
+#: addons/progress_bar/progress_bar.php:194 addons/flip_box/flip_box.php:252
+msgid "Color"
+msgstr "Color"
+
+#: addons/pricing_table/pricing_table.php:375
+#: addons/accordion/accordion.php:243
+#: addons/social_button/social_button.php:197
+msgid "Icon Size"
+msgstr "Tamaño del icono"
+
+#: addons/accordion/accordion.php:160 addons/accordion/accordion.php:277
+#: addons/pie_progress/pie_progress.php:111 addons/tab/tab.php:400
+msgid "Active color"
+msgstr "Color activo"
+
+#: addons/accordion/accordion.php:103
+msgid "Navigation Direction"
+msgstr "Posición icono de navegación"
+
+#: addons/accordion/accordion.php:97
+msgid "Caret"
+msgstr "Signo de intercalación"
+
+#: addons/accordion/accordion.php:96
+msgid "Chevron circle"
+msgstr "Círculo con diente de sierra"
+
+#: addons/animated_number/animated_number.php:101
+#: addons/animated_number/animated_number.php:141
+#: addons/pricing_table/pricing_table.php:181
+#: addons/pricing_table/pricing_table.php:241
+#: addons/pricing_table/pricing_table.php:296
+#: addons/pricing_table/pricing_table.php:543
+#: addons/pricing_table/pricing_table.php:568
+#: addons/pricing_table/pricing_table.php:592
+#: addons/pricing_table/pricing_table.php:626
+#: addons/pricing_table/pricing_table.php:644
+#: addons/pricing_table/pricing_table.php:772
+#: addons/text_block/text_block.php:49 addons/testimonial/testimonial.php:177
+#: addons/testimonial/testimonial.php:211
+#: addons/testimonial/testimonial.php:236
+#: addons/button_group/button_group.php:195 addons/posts/posts.php:231
+#: addons/posts/posts.php:277 addons/posts/posts.php:473
+#: addons/posts/posts.php:535 addons/posts/posts.php:667
+#: addons/posts/posts.php:818 addons/feature_box/feature_box.php:228
+#: addons/feature_box/feature_box.php:273
+#: addons/feature_box/feature_box.php:316
+#: addons/feature_box/feature_box.php:426
+#: addons/feature_box/feature_box.php:773 addons/form/form.php:696
+#: addons/image/image.php:239 addons/blocknumber/blocknumber.php:128
+#: addons/blocknumber/blocknumber.php:167
+#: addons/blocknumber/blocknumber.php:191 addons/raw_html/raw_html.php:57
+#: addons/accordion/accordion.php:114 addons/accordion/accordion.php:345
+#: addons/heading/heading.php:72 addons/pie_progress/pie_progress.php:130
+#: addons/testimonial_carousel/testimonial_carousel.php:266
+#: addons/testimonial_carousel/testimonial_carousel.php:299
+#: addons/testimonial_carousel/testimonial_carousel.php:323
+#: addons/testimonial_carousel/testimonial_carousel.php:358
+#: addons/button/button.php:118 addons/person/person.php:236
+#: addons/person/person.php:270 addons/person/person.php:304
+#: addons/person/person.php:339 addons/alert/alert.php:85
+#: addons/alert/alert.php:110 addons/tab/tab.php:336 addons/tab/tab.php:377
+#: addons/tab/tab.php:628 addons/video_popup/video_popup.php:253
+#: addons/video_popup/video_popup.php:287
+#: addons/image_hover/image_hover.php:277
+#: addons/image_hover/image_hover.php:332
+#: addons/image_hover/image_hover.php:376
+#: addons/person_carousel/person_carousel.php:362
+#: addons/person_carousel/person_carousel.php:404
+#: addons/person_carousel/person_carousel.php:428
+#: addons/person_carousel/person_carousel.php:462
+#: addons/progress_bar/progress_bar.php:162
+#: addons/progress_bar/progress_bar.php:218 addons/flip_box/flip_box.php:261
+#: addons/flip_box/flip_box.php:301 addons/flip_box/flip_box.php:576
+#: addons/flip_box/flip_box.php:616 addons/flip_box/flip_box.php:891
+msgid "Typography"
+msgstr "Tipografía"
+
+#: addons/accordion/accordion.php:95
+msgid "Chevron"
+msgstr "Diente de sierra"
+
+#: addons/accordion/accordion.php:94
+msgid "Angle double"
+msgstr "Ángulo doble"
+
+#: addons/accordion/accordion.php:93
+msgid "Angle"
+msgstr "Ángulo"
+
+#: addons/accordion/accordion.php:92
+msgid "Arrow fill circle"
+msgstr "Círculo relleno con flecha"
+
+#: addons/accordion/accordion.php:91
+msgid "Plus fill square"
+msgstr "Cuadrado relleno con signo +"
+
+#: addons/accordion/accordion.php:90
+msgid "Plus circle"
+msgstr "Círculo con signo +"
+
+#: addons/accordion/accordion.php:89
+msgid "Plus"
+msgstr "Signo +"
+
+#: addons/accordion/accordion.php:88
+msgid "None"
+msgstr "Ninguno"
+
+#: addons/accordion/accordion.php:86
+msgid "Navigation style"
+msgstr "Estilo de icono de navegación"
+
+#: addons/accordion/accordion.php:80
+msgid "Close all items"
+msgstr "Cerrar todos los elementos"
+
+#: addons/accordion/accordion.php:79
+msgid "Open all items"
+msgstr "Abrir todos los elementos"
+
+#: addons/accordion/accordion.php:78
+msgid "Open first item"
+msgstr "Abrir el primer elemento"
+
+#: addons/accordion/accordion.php:76 addons/flip_box/flip_box.php:25
+msgid "Behavior"
+msgstr "Comportamiento"
+
+#: addons/accordion/accordion.php:69
+msgid "Contents"
+msgstr "Contenidos"
+
+#: classes/Assets.php:120 addons/pricing_table/pricing_table.php:138
+#: addons/button_group/button_group.php:156
+#: addons/feature_box/feature_box.php:195 addons/form/form.php:430
+#: addons/accordion/accordion.php:63 addons/accordion/accordion.php:106
+#: addons/button/button.php:43 addons/tab/tab.php:37 addons/tab/tab.php:47
+#: addons/tab/tab.php:121 addons/video_popup/video_popup.php:47
+#: addons/image_hover/image_hover.php:159
+msgid "Right"
+msgstr "Derecha"
+
+#: classes/Assets.php:121 addons/pricing_table/pricing_table.php:137
+#: addons/button_group/button_group.php:155
+#: addons/feature_box/feature_box.php:194 addons/form/form.php:429
+#: addons/accordion/accordion.php:62 addons/accordion/accordion.php:105
+#: addons/button/button.php:42 addons/tab/tab.php:35 addons/tab/tab.php:46
+#: addons/tab/tab.php:120 addons/video_popup/video_popup.php:45
+#: addons/image_hover/image_hover.php:158
+msgid "Left"
+msgstr "Izquierda"
+
+#: addons/accordion/accordion.php:59
+msgid "Title icon position"
+msgstr "Posición del icono del título"
+
+#: addons/pricing_table/pricing_table.php:103
+#: addons/pricing_table/pricing_table.php:347
+#: addons/button_group/button_group.php:148 addons/accordion/accordion.php:54
+#: addons/icon/icon.php:24 addons/button/button.php:34 addons/tab/tab.php:112
+msgid "Icon"
+msgstr "Icono"
+
+#: addons/accordion/accordion.php:49
+msgid "Item title"
+msgstr "Título del artículo"
+
+#: addons/accordion/accordion.php:24
+msgid "Accordion"
+msgstr "Acordeón"
+
+#: addons/form/form.php:548
+msgid "Input Boxshadow"
+msgstr "Campo de sombra de caja"
+
+#: addons/image_hover/image_hover.php:184
+msgid "Overlay Hover Background"
+msgstr "Fondo de superposición al pasar el cursor"
+
+#: addons/image_hover/image_hover.php:199
+msgid "Zoom Out"
+msgstr "Alejar"
+
+#: addons/image_hover/image_hover.php:200
+msgid "Zoom In"
+msgstr "Acercar"
+
+#: addons/button_group/button_group.php:71 addons/button/button.php:138
+#: addons/alert/alert.php:43 addons/social_button/social_button.php:69
+#: addons/progress_bar/progress_bar.php:104
+msgid "Success"
+msgstr "Correcto"
+
+#: classes/Assets.php:125 addons/testimonial/testimonial.php:72
+#: addons/feature_box/feature_box.php:496
+#: addons/feature_box/feature_box.php:650
+#: addons/feature_box/feature_box.php:902 addons/image/image.php:82
+#: addons/video/video.php:51 addons/icon/icon.php:73
+#: addons/pie_progress/pie_progress.php:193
+#: addons/testimonial_carousel/testimonial_carousel.php:161
+#: addons/testimonial_carousel/testimonial_carousel.php:425
+#: addons/testimonial_carousel/testimonial_carousel.php:673
+#: addons/person/person.php:143 addons/person/person.php:416
+#: addons/tab/tab.php:511 addons/video_popup/video_popup.php:168
+#: addons/person_carousel/person_carousel.php:264
+#: addons/person_carousel/person_carousel.php:521
+#: addons/person_carousel/person_carousel.php:744
+#: addons/person_carousel/person_carousel.php:964
+#: addons/progress_bar/progress_bar.php:39 addons/flip_box/flip_box.php:448
+#: addons/flip_box/flip_box.php:764
+msgid "Width"
+msgstr "Ancho"
+
+#: addons/video_popup/video_popup.php:137
+msgid "line height"
+msgstr "alto de línea"
+
+#: classes/Assets.php:127 addons/feature_box/feature_box.php:486
+#: addons/icon/icon.php:137 addons/person/person.php:464
+#: addons/person_carousel/person_carousel.php:588
+#: addons/person_carousel/person_carousel.php:1028
+msgid "Line Height"
+msgstr "Alto de línea"
+
+#: addons/testimonial/testimonial.php:303 addons/posts/posts.php:335
+#: addons/tab/tab.php:449 addons/social_button/social_button.php:227
+msgid "Line height"
+msgstr "Alto de línea"
+
+#: classes/Assets.php:116
+msgid "Gradient"
+msgstr "Degradado"
+
+#: classes/Options.php:110
+msgid "Include the user roles that you want to allow editing this site with WP Page Builder."
+msgstr "Incluir los perfiles de usuarios a los que quieres impedir que puedan editar este sitio con WP Page Builder."
+
+#: classes/Options.php:98
+msgid "Include User Role"
+msgstr "Incluir perfil de usuario"
