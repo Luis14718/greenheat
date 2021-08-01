@@ -1,7 +1,7 @@
 
 <?php
 /*
-Template Name: Product Knowledge
+Template Name: Product Knowled
 */
 
 get_header('theme'); 

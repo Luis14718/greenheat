@@ -452,7 +452,76 @@ b,
 strong {
 	font-weight: bolder;
 }
-
+.grid-menu-item {
+    border-top: 1px solid #ccc;
+    font-size: 16px;
+    margin-bottom: 20px;
+    max-width: 300px;
+    padding-top: 20px;
+    text-align: center;
+}
+.grid-menu, .page-summary {
+    margin-bottom: 30px;
+}
+.visible-lg-block {
+    display: block!important;
+}
+.grid-menu-item {
+    font-size: 21px;
+}	
+.grid-menu-item {
+    border-top: 1px solid #ccc;
+    font-size: 16px;
+    margin-bottom: 20px;
+    max-width: 300px;
+    padding-top: 20px;
+    text-align: center;
+}
+a {
+    color: #428bca;
+    text-decoration: underline;
+    transition: color .5s ease,border-color .2s ease;
+}
+.grid-menu-item .img-wrap {
+    height: 150px;
+    line-height: 150px;
+}
+.grid-menu-item .img-wrap {
+    display: block;
+    height: 120px;
+    line-height: 120px;
+    margin-bottom: 10px;
+}
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}	
+.grid-menu-item a img {
+    max-height: 150px;
+    max-width: 150px;
+}
+#customer-survey-wrapper, #employ-form, .featured-image, .grid-menu-item a img, .job-posting, .our-team .team-photo, .submission-message .pl-wrapper {
+    border-radius: 6px;
+}
+.grid-menu-item a img {
+    max-height: 100%;
+    max-width: 100%;
+    transition: all .2s ease-in-out;
+    vertical-align: middle;
+}
+.grid-menu-item .img-wrap {
+    display: block;
+    height: 120px;
+    line-height: 120px;
+    margin-bottom: 10px;
+}
+.grid-menu-item .img-wrap {
+    display: block;
+    height: 120px;
+    line-height: 120px;
+    margin-bottom: 10px;
+}
 /**
  * 1. Correct the inheritance and scaling of font size in all browsers.
  * 2. Correct the odd `em` font sizing in all browsers.
