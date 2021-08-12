@@ -115,7 +115,7 @@ endwhile;
 	<div class="col-xs-12 col-sm-6 col-md-4 home-col">
 		<section>
 			<h2>Our Products</h2>
-			<a href="<?php echo get_bloginfo('url');?>/heating-air-conditioning-products/"><img src="https://storage.googleapis.com/sos-websvc/uploads/core/images/logos/registered-amstd-logo.png" alt="American Standard Logo" style="max-width:100px;" class="img-responsive pull-left"></a>
+			<a href="<?php echo get_bloginfo('url');?>/heating-air-conditioning-products/"><img src="<?php echo get_bloginfo('url');?>/sos-websvc/uploads/core/images/logos/registered-amstd-logo.png" alt="American Standard Logo" style="max-width:100px;" class="img-responsive pull-left"></a>
 			<p>As a American-Standard dealer, with a wide variety of products to choose from, we can keep your family healthy and feeling comfortable all year long. We carry a complete line of indoor comfort equipment with innovations that raise the standards of comfort and reliability, including <a href="<?php echo get_bloginfo('url');?>/products/air-conditioners/">air conditioners</a>,&nbsp;<a href="<?php echo get_bloginfo('url');?>/products/heat-pumps/">heat pumps</a>, <a href="<?php echo get_bloginfo('url');?>/products/gas-furnaces/">gas furnaces</a>, <a href="<?php echo get_bloginfo('url');?>/products/thermostats/">programmable thermostats</a>, <a href="<?php echo get_bloginfo('url');?>/products/humidifiers/">humidifiers</a>, <a href="<?php echo get_bloginfo('url');?>/products/duct-free-systems/">ductless split systems</a>, <a href="<?php echo get_bloginfo('url');?>/products/air-cleaners/">air cleaners</a>, <a href="<?php echo get_bloginfo('url');?>/products/ultra-violet-lights/">ultra violet lights</a>, <a href="<?php echo get_bloginfo('url');?>/products/ventilators/">ventilators</a> and <a href="<?php echo get_bloginfo('url');?>/products/zoning/">zoning products</a>. Let the experts at Air Flow Pros Heating &amp; Air Conditioning&nbsp;help you customize a solution that's right for you.</p>
 			<a href="<?php echo get_bloginfo('url');?>/heating-air-conditioning-products/" class="btn btn-secondary btn-default">Learn More&nbsp;<span class="glyphicon glyphicon-chevron-right " aria-hidden="true"></span> </a>
 		</section>
@@ -124,13 +124,13 @@ endwhile;
 			<aside>
 				<h2>Promotions</h2>
 				<div class="ads-wrapper center-block">
-					<div class="carousel slide ads-rotator" data-ride="carousel"><div class="carousel-inner" role="listbox"><div class="item active"><a class="ad" href="<?php echo get_bloginfo('url');?>/products/heat-pumps/"><img src="https://storage.googleapis.com/sos-websvc/ads/200x250/brand_16_2.jpg" alt="American Standard AccuComfort Heat Pump"></a></div></div></div>				</div>
+					<div class="carousel slide ads-rotator" data-ride="carousel"><div class="carousel-inner" role="listbox"><div class="item active"><a class="ad" href="<?php echo get_bloginfo('url');?>/products/heat-pumps/"><img src="<?php echo get_bloginfo('url');?>/sos-websvc/ads/200x250/brand_16_2.jpg" alt="American Standard AccuComfort Heat Pump"></a></div></div></div>				</div>
 			</aside>
 		</div>
 		<div class="col-xs-12 col-sm-6 padding-bottom-30 col-md-4 home-col">
 		<section>
 			<h2>Our Services</h2>
-			<a href="<?php echo get_bloginfo('url');?>/heating-air-conditioning-services/"><img src="https://storage.googleapis.com/sos-websvc/images/default/ac_repair_100w.png" class="img-responsive pull-left" alt="Wrench Icon" style="max-width:100px;"></a>
+			<a href="<?php echo get_bloginfo('url');?>/heating-air-conditioning-services/"><img src="<?php echo get_bloginfo('url');?>/sos-websvc/images/default/ac_repair_100w.png" class="img-responsive pull-left" alt="Wrench Icon" style="max-width:100px;"></a>
 			<p>We are service professionals! As licensed contractors and specialists in the field of heating and air-conditioning, we have the tools, the equipment, and the experience to keep your equipment running smoothly all year long. If it is <a href="<?php echo get_bloginfo('url');?>/services/repair/">emergency service</a> that you need, twenty-four hours a day, seven days a week, we are available to assist you! To help reduce service emergencies, we offer <a href="<?php echo get_bloginfo('url');?>/services/service-agreements/">service agreements</a> to keep your comfort system running at peak performance.</p>
 			<a href="<?php echo get_bloginfo('url');?>/heating-air-conditioning-services/" class="btn btn-secondary btn-default">Learn More&nbsp;<span class="glyphicon glyphicon-chevron-right " aria-hidden="true"></span> </a>
 		</section>
@@ -173,7 +173,7 @@ endwhile;
 		<div class="hidden-xs col-sm-4 col-md-4 col-lg-3 hours text-center-xs">
 			<h3><span class="glyphicon glyphicon-time" aria-hidden="true"></span> Hours</h3>
 			<div><p><span content="Mo,Tu,We,Th,Fr 08:00-17:00">Mon-Fri : 8:00am - 5:00pm</span><br><span content="Sa 09:00-14:00">Sat: 9:00am - 2:00pm</span><br><span class="text-danger">24/7 Emergency Service</span></p></div>			<h3><span class="glyphicon glyphicon-ok-circle"></span>&nbsp;Payment Accepted</h3>
-			<div><ul><li>Cash</li><li>Check</li><li>Credit Cards</li><li style="margin: 0; padding: 0;"><img src="https://storage.googleapis.com/sos-websvc/images/logos/credit-cards-visa.png" alt="Visa" class="credit-card-logo"><img src="https://storage.googleapis.com/sos-websvc/images/logos/credit-cards-mastercard.png" alt="Master Card" class="credit-card-logo"><img src="https://storage.googleapis.com/sos-websvc/images/logos/credit-cards-discover.png" alt="Discover" class="credit-card-logo"><img src="https://storage.googleapis.com/sos-websvc/images/logos/credit-cards-amex.png" alt="Amercian Express" class="credit-card-logo"></li></ul></div>		</div>
+			<div><ul><li>Cash</li><li>Check</li><li>Credit Cards</li><li style="margin: 0; padding: 0;"><img src="<?php echo get_bloginfo('url');?>/sos-websvc/images/logos/credit-cards-visa.png" alt="Visa" class="credit-card-logo"><img src="<?php echo get_bloginfo('url');?>/sos-websvc/images/logos/credit-cards-mastercard.png" alt="Master Card" class="credit-card-logo"><img src="<?php echo get_bloginfo('url');?>/sos-websvc/images/logos/credit-cards-discover.png" alt="Discover" class="credit-card-logo"><img src="<?php echo get_bloginfo('url');?>/sos-websvc/images/logos/credit-cards-amex.png" alt="Amercian Express" class="credit-card-logo"></li></ul></div>		</div>
 		<!--/.col-->
 	</div><!-- /.row -->
 </section>

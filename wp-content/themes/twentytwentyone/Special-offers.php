@@ -88,7 +88,7 @@ get_header('theme');
         	</div>
         	<div class="row">
         		<div class="col-xs-12">
-        			<div class="special-offers"><div class="row"><div class="col-xs-12"><div class="visible-xs-block visible-sm-block"><div class="center-block special-offer"><table><tbody><tr><td class="special-offer-logo"><div><img class="img-responsive" src="https://storage.googleapis.com/sos-websvc/uploads/0014869DEA000898/images/afp-logo.png" alt="Air Flow Pros Heating &amp; Air Conditioning"></div>
+        			<div class="special-offers"><div class="row"><div class="col-xs-12"><div class="visible-xs-block visible-sm-block"><div class="center-block special-offer"><table><tbody><tr><td class="special-offer-logo"><div><img class="img-responsive" src="<?php echo get_bloginfo('url');?>/sos-websvc/uploads/0014869DEA000898/images/afp-logo.png" alt="Air Flow Pros Heating &amp; Air Conditioning"></div>
             </td>
             <td class="special-offer-phone">
                 <a href="tel:4154005140">415-400-5140</a>
@@ -99,7 +99,7 @@ get_header('theme');
             <p class="special-offer-description">Keep your Comfort System working at peak efficiency</p>
             <p class="special-offer-legal">2595 Mission Street, Ste 202, San Francisco, CA, 94110<br>Discount good with coupon only. Not valid with any other offer.</p>
             <p class="special-offer-expires">Expires: 09/30/2021</p>
-            <a href="#" class="special-offer-print-link special-offer-0" data-offer="0">Click here to print this coupon</a></div><div class="center-block special-offer"><table><tbody><tr><td class="special-offer-logo"><div><img class="img-responsive" src="https://storage.googleapis.com/sos-websvc/uploads/0014869DEA000898/images/afp-logo.png" alt="Air Flow Pros Heating &amp; Air Conditioning"></div>
+            <a href="#" class="special-offer-print-link special-offer-0" data-offer="0">Click here to print this coupon</a></div><div class="center-block special-offer"><table><tbody><tr><td class="special-offer-logo"><div><img class="img-responsive" src="<?php echo get_bloginfo('url');?>/sos-websvc/uploads/0014869DEA000898/images/afp-logo.png" alt="Air Flow Pros Heating &amp; Air Conditioning"></div>
             </td>
             <td class="special-offer-phone">
                 <a href="tel:4154005140">415-400-5140</a>
@@ -110,7 +110,7 @@ get_header('theme');
             <p class="special-offer-description">When installing both new heating and cooling equipment<br>Coupon must be presented at time of call</p>
             <p class="special-offer-legal">2595 Mission Street, Ste 202, San Francisco, CA, 94110<br>Discount good with coupon only. Not valid with any other offer.</p>
             <p class="special-offer-expires">Expires: 09/30/2021</p>
-            <a href="#" class="special-offer-print-link special-offer-1" data-offer="1">Click here to print this coupon</a></div></div></div></div><div class="visible-md-block visible-lg-block"><div class="row"><div class="col-xs-6"><div class="center-block special-offer"><table><tbody><tr><td class="special-offer-logo"><div><img class="img-responsive" src="https://storage.googleapis.com/sos-websvc/uploads/0014869DEA000898/images/afp-logo.png" alt="Air Flow Pros Heating &amp; Air Conditioning"></div>
+            <a href="#" class="special-offer-print-link special-offer-1" data-offer="1">Click here to print this coupon</a></div></div></div></div><div class="visible-md-block visible-lg-block"><div class="row"><div class="col-xs-6"><div class="center-block special-offer"><table><tbody><tr><td class="special-offer-logo"><div><img class="img-responsive" src="<?php echo get_bloginfo('url');?>/sos-websvc/uploads/0014869DEA000898/images/afp-logo.png" alt="Air Flow Pros Heating &amp; Air Conditioning"></div>
             </td>
             <td class="special-offer-phone">
                 <a href="tel:4154005140">415-400-5140</a>
@@ -121,7 +121,7 @@ get_header('theme');
             <p class="special-offer-description">Keep your Comfort System working at peak efficiency</p>
             <p class="special-offer-legal">2595 Mission Street, Ste 202, San Francisco, CA, 94110<br>Discount good with coupon only. Not valid with any other offer.</p>
             <p class="special-offer-expires">Expires: 09/30/2021</p>
-            <a href="#" class="special-offer-print-link special-offer-0" data-offer="0">Click here to print this coupon</a></div></div><div class="col-xs-6"><div class="center-block special-offer"><table><tbody><tr><td class="special-offer-logo"><div><img class="img-responsive" src="https://storage.googleapis.com/sos-websvc/uploads/0014869DEA000898/images/afp-logo.png" alt="Air Flow Pros Heating &amp; Air Conditioning"></div>
+            <a href="#" class="special-offer-print-link special-offer-0" data-offer="0">Click here to print this coupon</a></div></div><div class="col-xs-6"><div class="center-block special-offer"><table><tbody><tr><td class="special-offer-logo"><div><img class="img-responsive" src="<?php echo get_bloginfo('url');?>/sos-websvc/uploads/0014869DEA000898/images/afp-logo.png" alt="Air Flow Pros Heating &amp; Air Conditioning"></div>
             </td>
             <td class="special-offer-phone">
                 <a href="tel:4154005140">415-400-5140</a>
@@ -132,7 +132,7 @@ get_header('theme');
             <p class="special-offer-description">When installing both new heating and cooling equipment<br>Coupon must be presented at time of call</p>
             <p class="special-offer-legal">2595 Mission Street, Ste 202, San Francisco, CA, 94110<br>Discount good with coupon only. Not valid with any other offer.</p>
             <p class="special-offer-expires">Expires: 09/30/2021</p>
-            <a href="#" class="special-offer-print-link special-offer-1" data-offer="1">Click here to print this coupon</a></div></div></div></div><div class="hidden-xs hidden-sm hidden-md hidden-lg"><div class="row"><div class="col-xs-4"><div class="center-block special-offer"><table><tbody><tr><td class="special-offer-logo"><div><img class="img-responsive" src="https://storage.googleapis.com/sos-websvc/uploads/0014869DEA000898/images/afp-logo.png" alt="Air Flow Pros Heating &amp; Air Conditioning"></div>
+            <a href="#" class="special-offer-print-link special-offer-1" data-offer="1">Click here to print this coupon</a></div></div></div></div><div class="hidden-xs hidden-sm hidden-md hidden-lg"><div class="row"><div class="col-xs-4"><div class="center-block special-offer"><table><tbody><tr><td class="special-offer-logo"><div><img class="img-responsive" src="<?php echo get_bloginfo('url');?>/sos-websvc/uploads/0014869DEA000898/images/afp-logo.png" alt="Air Flow Pros Heating &amp; Air Conditioning"></div>
             </td>
             <td class="special-offer-phone">
                 <a href="tel:4154005140">415-400-5140</a>
@@ -143,7 +143,7 @@ get_header('theme');
             <p class="special-offer-description">Keep your Comfort System working at peak efficiency</p>
             <p class="special-offer-legal">2595 Mission Street, Ste 202, San Francisco, CA, 94110<br>Discount good with coupon only. Not valid with any other offer.</p>
             <p class="special-offer-expires">Expires: 09/30/2021</p>
-            <a href="#" class="special-offer-print-link special-offer-0" data-offer="0">Click here to print this coupon</a></div></div><div class="col-xs-4"><div class="center-block special-offer"><table><tbody><tr><td class="special-offer-logo"><div><img class="img-responsive" src="https://storage.googleapis.com/sos-websvc/uploads/0014869DEA000898/images/afp-logo.png" alt="Air Flow Pros Heating &amp; Air Conditioning"></div>
+            <a href="#" class="special-offer-print-link special-offer-0" data-offer="0">Click here to print this coupon</a></div></div><div class="col-xs-4"><div class="center-block special-offer"><table><tbody><tr><td class="special-offer-logo"><div><img class="img-responsive" src="<?php echo get_bloginfo('url');?>/sos-websvc/uploads/0014869DEA000898/images/afp-logo.png" alt="Air Flow Pros Heating &amp; Air Conditioning"></div>
             </td>
             <td class="special-offer-phone">
                 <a href="tel:4154005140">415-400-5140</a>

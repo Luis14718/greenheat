@@ -81,10 +81,10 @@ get_header('theme');
         	</div>
         	<div class="row">
         		<div class="col-sm-3 col-lg-2 hidden-xs">
-        			<img class="featured-image" src="https://storage.googleapis.com/sos-websvc/images/default/ask-the-expert.jpg" alt="Ask the Expert">        		</div>
+        			<img class="featured-image" src="<?php echo get_bloginfo('url');?>/sos-websvc/images/default/ask-the-expert.jpg" alt="Ask the Expert">        		</div>
         		<div class="col-sm-9 col-lg-10">
         			<div class="visible-xs-block featured-image-wrapper">
-        				<img class="featured-image" src="https://storage.googleapis.com/sos-websvc/images/default/ask-the-expert.jpg" alt="Ask the Expert">        			</div>
+        				<img class="featured-image" src="<?php echo get_bloginfo('url');?>/sos-websvc/images/default/ask-the-expert.jpg" alt="Ask the Expert">        			</div>
         			            <div class="ask-expert">
                 <div class="row">
                     <div class="col-xs-12">
