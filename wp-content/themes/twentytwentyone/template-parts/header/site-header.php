@@ -14,7 +14,7 @@ $wrapper_classes .= has_nav_menu( 'primary' ) ? ' has-menu' : '';
 ?>
 
 <header id="masthead" class="" role="banner" style="max-width:99%;">
-<div class="row align-items-center">
+<div class=" background-color: #1F3A4A; row align-items-center">
 
 		<div class="col-4">
 	        
@@ -30,7 +30,8 @@ $wrapper_classes .= has_nav_menu( 'primary' ) ? ' has-menu' : '';
 			
 		</div>
 		<div class="col-4 text-center">
-		<img src="<?php echo get_bloginfo('url');?>/wp-content/uploads/2021/08/Recurso-2.png" alt="">
+		<img src="<?php echo get_bloginfo('url');?>/wp-content/uploads/2021/08/Recurso-2.png"  style="    width: 81%;
+    padding: 15px;" alt="">
 		</div>
 
 		<div class="col-4 text-right">

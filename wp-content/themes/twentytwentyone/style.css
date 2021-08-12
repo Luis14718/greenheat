@@ -917,8 +917,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
     padding: 30px 0;
 }
 .topic-buttons a {
-    background-color: #dc0019;
-    border: 1px solid #dc0019;
+    background-color: #1F3A4A;
     box-shadow: 0 4px 5px -5px rgba(0,0,0,.25);
     color: #fff;
     font-size: 1em;
@@ -927,6 +926,10 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
     padding: 10px 0;
     text-transform: uppercase;
     transition: all .5s ease;
+}
+.header-blue{
+	background-color: #1F3A4A;
+
 }
 .initialism, .text-uppercase {
     text-transform: uppercase;
