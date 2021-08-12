@@ -21,7 +21,7 @@ endwhile;
 							                <div id="featured-reviews">
                     <div class="row">
                                                     <div class="col-xs-12 col-sm-3 col-lg-4">
-                                <a href="//www.afpheating.com/about/reviews/"><img class="img-responsive center-block" src="//www.afpheating.com/images/core/reviews-stars.png" alt="Reviews for Air Flow Pros Heating &amp; Air Conditioning"></a>
+                                <a href="<?php echo get_bloginfo('url');?>/about/reviews/"><img class="img-responsive center-block" src="<?php echo get_bloginfo('url');?>/images/core/reviews-stars.png" alt="Reviews for Air Flow Pros Heating &amp; Air Conditioning"></a>
                             </div>
                             <!--/.col-->
                             <div class="col-xs-12 col-sm-9 col-lg-8 text-center-sm">
@@ -31,7 +31,7 @@ endwhile;
                                                                                     </div>
                                                                     </div>
 
-                                <div class="testimonial"><p class="no-reviews"><em>There are currently no reviews.</em></p><p>Be the first to <a href="//www.afpheating.com/about/reviews/    ">write a review</a>.</p></div>
+                                <div class="testimonial"><p class="no-reviews"><em>There are currently no reviews.</em></p><p>Be the first to <a href="<?php echo get_bloginfo('url');?>/about/reviews/    ">write a review</a>.</p></div>
 
                                 </div>
                             </div>
@@ -63,19 +63,19 @@ endwhile;
                     </div>
 
 					<div class="col-2">
-						<a href="//www.afpheating.com/educational-topics/select-new-system/"><img class="img-responsive" src="//www.afpheating.com/images/topic-new-system.png" width="129" height="89" alt="Select a New System"></a>
+						<a href="<?php echo get_bloginfo('url');?>/educational-topics/select-new-system/"><img class="img-responsive" src="<?php echo get_bloginfo('url');?>/images/topic-new-system.png" width="129" height="89" alt="Select a New System"></a>
 					</div>
 					<div class="col-2">
-						<a href="//www.afpheating.com/educational-topics/repair-replace/"><img class="img-responsive" src="//www.afpheating.com/images/topic-repair-or-replace.png" width="129" height="89" alt="Repair or Replace?"></a>
+						<a href="<?php echo get_bloginfo('url');?>/educational-topics/repair-replace/"><img class="img-responsive" src="<?php echo get_bloginfo('url');?>/images/topic-repair-or-replace.png" width="129" height="89" alt="Repair or Replace?"></a>
 					</div>
 					<div class="col-2">
-						<a href="//www.afpheating.com/educational-topics/energy-bill-concerns/"><img class="img-responsive" src="//www.afpheating.com/images/topic-energy-concerns.png" width="129" height="89" alt="Energy Bill Concerns"></a>
+						<a href="<?php echo get_bloginfo('url');?>/educational-topics/energy-bill-concerns/"><img class="img-responsive" src="<?php echo get_bloginfo('url');?>/images/topic-energy-concerns.png" width="129" height="89" alt="Energy Bill Concerns"></a>
 					</div>
 					<div class="col-2">
-						<a href="//www.afpheating.com/educational-topics/healthier-home/"><img class="img-responsive" src="//www.afpheating.com/images/topic-healthy-home.png" width="129" height="89" alt="Healthier Home"></a>
+						<a href="<?php echo get_bloginfo('url');?>/educational-topics/healthier-home/"><img class="img-responsive" src="<?php echo get_bloginfo('url');?>/images/topic-healthy-home.png" width="129" height="89" alt="Healthier Home"></a>
 					</div>
 					<div class="col-2">
-						<a href="//www.afpheating.com/educational-topics/ready-maintenance/"><img class="img-responsive" src="//www.afpheating.com/images/topic-ready-for-maintenance.png" width="135" height="89" alt="Ready for Maintenance"></a>
+						<a href="<?php echo get_bloginfo('url');?>/educational-topics/ready-maintenance/"><img class="img-responsive" src="<?php echo get_bloginfo('url');?>/images/topic-ready-for-maintenance.png" width="135" height="89" alt="Ready for Maintenance"></a>
 					</div>
 
 				</div>
@@ -93,7 +93,7 @@ endwhile;
 						<a class="btn btn-default btn-sm btn-block" role="button" href="https://clienthub.getjobber.com/client_hubs/17433109-1f74-4f22-91a5-a15f4f41ee96/login/new" target="_blank">Contact Us - Existing Customer Service Request&nbsp;<span class="glyphicon glyphicon-wrench" aria-hidden="true"></span></a>
 					</div>
 					<div class="col-sm-6 col-md-6 col-lg-12">
-						<a class=" btn btn-default btn-sm btn-block" role="button" href="//www.afpheating.com/educational-topics/request-service/">Contact Us - New Customer Service Request&nbsp;<span class="glyphicon glyphicon-wrench" aria-hidden="true"></span></a>
+						<a class=" btn btn-default btn-sm btn-block" role="button" href="<?php echo get_bloginfo('url');?>/educational-topics/request-service/">Contact Us - New Customer Service Request&nbsp;<span class="glyphicon glyphicon-wrench" aria-hidden="true"></span></a>
 					</div>
 				</div>
 			</div>
@@ -115,24 +115,24 @@ endwhile;
 	<div class="col-xs-12 col-sm-6 col-md-4 home-col">
 		<section>
 			<h2>Our Products</h2>
-			<a href="//www.afpheating.com/heating-air-conditioning-products/"><img src="https://storage.googleapis.com/sos-websvc/uploads/core/images/logos/registered-amstd-logo.png" alt="American Standard Logo" style="max-width:100px;" class="img-responsive pull-left"></a>
-			<p>As a American-Standard dealer, with a wide variety of products to choose from, we can keep your family healthy and feeling comfortable all year long. We carry a complete line of indoor comfort equipment with innovations that raise the standards of comfort and reliability, including <a href="//www.afpheating.com/products/air-conditioners/">air conditioners</a>,&nbsp;<a href="//www.afpheating.com/products/heat-pumps/">heat pumps</a>, <a href="//www.afpheating.com/products/gas-furnaces/">gas furnaces</a>, <a href="//www.afpheating.com/products/thermostats/">programmable thermostats</a>, <a href="//www.afpheating.com/products/humidifiers/">humidifiers</a>, <a href="//www.afpheating.com/products/duct-free-systems/">ductless split systems</a>, <a href="//www.afpheating.com/products/air-cleaners/">air cleaners</a>, <a href="//www.afpheating.com/products/ultra-violet-lights/">ultra violet lights</a>, <a href="//www.afpheating.com/products/ventilators/">ventilators</a> and <a href="//www.afpheating.com/products/zoning/">zoning products</a>. Let the experts at Air Flow Pros Heating &amp; Air Conditioning&nbsp;help you customize a solution that's right for you.</p>
-			<a href="//www.afpheating.com/heating-air-conditioning-products/" class="btn btn-secondary btn-default">Learn More&nbsp;<span class="glyphicon glyphicon-chevron-right " aria-hidden="true"></span> </a>
+			<a href="<?php echo get_bloginfo('url');?>/heating-air-conditioning-products/"><img src="https://storage.googleapis.com/sos-websvc/uploads/core/images/logos/registered-amstd-logo.png" alt="American Standard Logo" style="max-width:100px;" class="img-responsive pull-left"></a>
+			<p>As a American-Standard dealer, with a wide variety of products to choose from, we can keep your family healthy and feeling comfortable all year long. We carry a complete line of indoor comfort equipment with innovations that raise the standards of comfort and reliability, including <a href="<?php echo get_bloginfo('url');?>/products/air-conditioners/">air conditioners</a>,&nbsp;<a href="<?php echo get_bloginfo('url');?>/products/heat-pumps/">heat pumps</a>, <a href="<?php echo get_bloginfo('url');?>/products/gas-furnaces/">gas furnaces</a>, <a href="<?php echo get_bloginfo('url');?>/products/thermostats/">programmable thermostats</a>, <a href="<?php echo get_bloginfo('url');?>/products/humidifiers/">humidifiers</a>, <a href="<?php echo get_bloginfo('url');?>/products/duct-free-systems/">ductless split systems</a>, <a href="<?php echo get_bloginfo('url');?>/products/air-cleaners/">air cleaners</a>, <a href="<?php echo get_bloginfo('url');?>/products/ultra-violet-lights/">ultra violet lights</a>, <a href="<?php echo get_bloginfo('url');?>/products/ventilators/">ventilators</a> and <a href="<?php echo get_bloginfo('url');?>/products/zoning/">zoning products</a>. Let the experts at Air Flow Pros Heating &amp; Air Conditioning&nbsp;help you customize a solution that's right for you.</p>
+			<a href="<?php echo get_bloginfo('url');?>/heating-air-conditioning-products/" class="btn btn-secondary btn-default">Learn More&nbsp;<span class="glyphicon glyphicon-chevron-right " aria-hidden="true"></span> </a>
 		</section>
 	</div>
 			<div class="col-xs-12 col-sm-12 col-md-4 home-col hidden-xs hidden-sm">
 			<aside>
 				<h2>Promotions</h2>
 				<div class="ads-wrapper center-block">
-					<div class="carousel slide ads-rotator" data-ride="carousel"><div class="carousel-inner" role="listbox"><div class="item active"><a class="ad" href="//www.afpheating.com/products/heat-pumps/"><img src="https://storage.googleapis.com/sos-websvc/ads/200x250/brand_16_2.jpg" alt="American Standard AccuComfort Heat Pump"></a></div></div></div>				</div>
+					<div class="carousel slide ads-rotator" data-ride="carousel"><div class="carousel-inner" role="listbox"><div class="item active"><a class="ad" href="<?php echo get_bloginfo('url');?>/products/heat-pumps/"><img src="https://storage.googleapis.com/sos-websvc/ads/200x250/brand_16_2.jpg" alt="American Standard AccuComfort Heat Pump"></a></div></div></div>				</div>
 			</aside>
 		</div>
 		<div class="col-xs-12 col-sm-6 padding-bottom-30 col-md-4 home-col">
 		<section>
 			<h2>Our Services</h2>
-			<a href="//www.afpheating.com/heating-air-conditioning-services/"><img src="https://storage.googleapis.com/sos-websvc/images/default/ac_repair_100w.png" class="img-responsive pull-left" alt="Wrench Icon" style="max-width:100px;"></a>
-			<p>We are service professionals! As licensed contractors and specialists in the field of heating and air-conditioning, we have the tools, the equipment, and the experience to keep your equipment running smoothly all year long. If it is <a href="//www.afpheating.com/services/repair/">emergency service</a> that you need, twenty-four hours a day, seven days a week, we are available to assist you! To help reduce service emergencies, we offer <a href="//www.afpheating.com/services/service-agreements/">service agreements</a> to keep your comfort system running at peak performance.</p>
-			<a href="//www.afpheating.com/heating-air-conditioning-services/" class="btn btn-secondary btn-default">Learn More&nbsp;<span class="glyphicon glyphicon-chevron-right " aria-hidden="true"></span> </a>
+			<a href="<?php echo get_bloginfo('url');?>/heating-air-conditioning-services/"><img src="https://storage.googleapis.com/sos-websvc/images/default/ac_repair_100w.png" class="img-responsive pull-left" alt="Wrench Icon" style="max-width:100px;"></a>
+			<p>We are service professionals! As licensed contractors and specialists in the field of heating and air-conditioning, we have the tools, the equipment, and the experience to keep your equipment running smoothly all year long. If it is <a href="<?php echo get_bloginfo('url');?>/services/repair/">emergency service</a> that you need, twenty-four hours a day, seven days a week, we are available to assist you! To help reduce service emergencies, we offer <a href="<?php echo get_bloginfo('url');?>/services/service-agreements/">service agreements</a> to keep your comfort system running at peak performance.</p>
+			<a href="<?php echo get_bloginfo('url');?>/heating-air-conditioning-services/" class="btn btn-secondary btn-default">Learn More&nbsp;<span class="glyphicon glyphicon-chevron-right " aria-hidden="true"></span> </a>
 		</section>
 	</div>
 
@@ -155,11 +155,11 @@ endwhile;
 
                 <div class="row home-bullets-three-column visible-lg-block">
                     <div class="col-4">
-                        <ul class="home-bullets-list"><li><a href="//www.afpheating.com/heating-air-conditioning-products/">Residential Heating &amp; Air Conditioning Products</a></li><li><a href="//www.afpheating.com/services/commercial-hvac/">Commercial HVAC Services</a></li><li><a href="//www.afpheating.com/services/new-installation/">Installation &amp; Replacement</a></li><li><a href="//www.afpheating.com/about/qualifications/">Trained Technicians</a></li></ul>                    </div>
+                        <ul class="home-bullets-list"><li><a href="<?php echo get_bloginfo('url');?>/heating-air-conditioning-products/">Residential Heating &amp; Air Conditioning Products</a></li><li><a href="<?php echo get_bloginfo('url');?>/services/commercial-hvac/">Commercial HVAC Services</a></li><li><a href="<?php echo get_bloginfo('url');?>/services/new-installation/">Installation &amp; Replacement</a></li><li><a href="<?php echo get_bloginfo('url');?>/about/qualifications/">Trained Technicians</a></li></ul>                    </div>
                     <div class="col-4">
-                        <ul class="home-bullets-list"><li><a href="//www.afpheating.com/services/upgrade-replacement/">Equipment Retrofit &amp; Replacement</a></li><li><a href="//www.afpheating.com/services/preventive-maintenance/">Preventative Maintenance</a></li><li><a href="//www.afpheating.com/services/service-agreements/">Extended Service Agreements</a></li><li><a href="//www.afpheating.com/services/extended-warranties/">Extended Warranties on New Equipment</a></li></ul>                    </div>
+                        <ul class="home-bullets-list"><li><a href="<?php echo get_bloginfo('url');?>/services/upgrade-replacement/">Equipment Retrofit &amp; Replacement</a></li><li><a href="<?php echo get_bloginfo('url');?>/services/preventive-maintenance/">Preventative Maintenance</a></li><li><a href="<?php echo get_bloginfo('url');?>/services/service-agreements/">Extended Service Agreements</a></li><li><a href="<?php echo get_bloginfo('url');?>/services/extended-warranties/">Extended Warranties on New Equipment</a></li></ul>                    </div>
                     <div class="col-4">
-                        <ul class="home-bullets-list"><li><a href="//www.afpheating.com/services/repair/">Emergency Service</a></li><li><a href="//www.afpheating.com/services/indoor-air-quality-specialists/">Indoor Air Quality Specialists</a></li><li><a href="//www.afpheating.com/services/repair/">Service All Makes &amp; Models</a></li></ul>                    </div>
+                        <ul class="home-bullets-list"><li><a href="<?php echo get_bloginfo('url');?>/services/repair/">Emergency Service</a></li><li><a href="<?php echo get_bloginfo('url');?>/services/indoor-air-quality-specialists/">Indoor Air Quality Specialists</a></li><li><a href="<?php echo get_bloginfo('url');?>/services/repair/">Service All Makes &amp; Models</a></li></ul>                    </div>
                 </div>
 
                 

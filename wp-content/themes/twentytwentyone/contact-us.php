@@ -30,19 +30,19 @@ get_header('theme');
                     </div>
 
 					<div class="col-2">
-						<a href="//www.afpheating.com/educational-topics/select-new-system/"><img class="img-responsive" src="//www.afpheating.com/images/topic-new-system.png" width="129" height="89" alt="Select a New System"></a>
+						<a href="<?php echo get_bloginfo('url');?>/educational-topics/select-new-system/"><img class="img-responsive" src="<?php echo get_bloginfo('url');?>/images/topic-new-system.png" width="129" height="89" alt="Select a New System"></a>
 					</div>
 					<div class="col-2">
-						<a href="//www.afpheating.com/educational-topics/repair-replace/"><img class="img-responsive" src="//www.afpheating.com/images/topic-repair-or-replace.png" width="129" height="89" alt="Repair or Replace?"></a>
+						<a href="<?php echo get_bloginfo('url');?>/educational-topics/repair-replace/"><img class="img-responsive" src="<?php echo get_bloginfo('url');?>/images/topic-repair-or-replace.png" width="129" height="89" alt="Repair or Replace?"></a>
 					</div>
 					<div class="col-2">
-						<a href="//www.afpheating.com/educational-topics/energy-bill-concerns/"><img class="img-responsive" src="//www.afpheating.com/images/topic-energy-concerns.png" width="129" height="89" alt="Energy Bill Concerns"></a>
+						<a href="<?php echo get_bloginfo('url');?>/educational-topics/energy-bill-concerns/"><img class="img-responsive" src="<?php echo get_bloginfo('url');?>/images/topic-energy-concerns.png" width="129" height="89" alt="Energy Bill Concerns"></a>
 					</div>
 					<div class="col-2">
-						<a href="//www.afpheating.com/educational-topics/healthier-home/"><img class="img-responsive" src="//www.afpheating.com/images/topic-healthy-home.png" width="129" height="89" alt="Healthier Home"></a>
+						<a href="<?php echo get_bloginfo('url');?>/educational-topics/healthier-home/"><img class="img-responsive" src="<?php echo get_bloginfo('url');?>/images/topic-healthy-home.png" width="129" height="89" alt="Healthier Home"></a>
 					</div>
 					<div class="col-2">
-						<a href="//www.afpheating.com/educational-topics/ready-maintenance/"><img class="img-responsive" src="//www.afpheating.com/images/topic-ready-for-maintenance.png" width="135" height="89" alt="Ready for Maintenance"></a>
+						<a href="<?php echo get_bloginfo('url');?>/educational-topics/ready-maintenance/"><img class="img-responsive" src="<?php echo get_bloginfo('url');?>/images/topic-ready-for-maintenance.png" width="135" height="89" alt="Ready for Maintenance"></a>
 					</div>
 
 				</div>
@@ -60,7 +60,7 @@ get_header('theme');
 						<a class="btn btn-default btn-sm btn-block" role="button" href="https://clienthub.getjobber.com/client_hubs/17433109-1f74-4f22-91a5-a15f4f41ee96/login/new" target="_blank">Contact Us - Existing Customer Service Request&nbsp;<span class="glyphicon glyphicon-wrench" aria-hidden="true"></span></a>
 					</div>
 					<div class="col-sm-6 col-md-6 col-lg-12">
-						<a class=" btn btn-default btn-sm btn-block" role="button" href="//www.afpheating.com/educational-topics/request-service/">Contact Us - New Customer Service Request&nbsp;<span class="glyphicon glyphicon-wrench" aria-hidden="true"></span></a>
+						<a class=" btn btn-default btn-sm btn-block" role="button" href="<?php echo get_bloginfo('url');?>/educational-topics/request-service/">Contact Us - New Customer Service Request&nbsp;<span class="glyphicon glyphicon-wrench" aria-hidden="true"></span></a>
 					</div>
 				</div>
 			</div>
