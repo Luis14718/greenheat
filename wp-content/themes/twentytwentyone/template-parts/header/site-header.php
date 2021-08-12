@@ -30,7 +30,7 @@ $wrapper_classes .= has_nav_menu( 'primary' ) ? ' has-menu' : '';
 			
 		</div>
 		<div class="col-4 text-center">
-		<img src="<?php echo get_bloginfo('url');?>/wp-content/uploads/2021/07/afp-logo.png" alt="">
+		<img src="<?php echo get_bloginfo('url');?>wp-content/uploads/2021/08/Recurso-2.png" alt="">
 		</div>
 
 		<div class="col-4 text-right">
