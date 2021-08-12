@@ -19,7 +19,7 @@ $wrapper_classes .= has_nav_menu( 'primary' ) ? ' has-menu' : '';
 		<div class="col-4">
 	        
 		<div class="row align-items-center">
-		<div class="col-6 text-center" style="padding-left:32px;"><img src="<?php echo get_bloginfo('url');?>/wp-content/uploads/2021/07/american-standard-logo-black.png" alt="" style="width:100%;"> </div>
+		<div class="col-6 text-center" style="padding-left:32px;"><img style="filter: brightness(358);" src="<?php echo get_bloginfo('url');?>/wp-content/uploads/2021/07/american-standard-logo-black.png" alt="" style="width:100%;"> </div>
 		<div class="col-6 text-center"> <img src="<?php echo get_bloginfo('url');?>/wp-content/uploads/2021/07/energy-star.png" alt="">	</div>
 
 		</div>
@@ -35,7 +35,7 @@ $wrapper_classes .= has_nav_menu( 'primary' ) ? ' has-menu' : '';
 		</div>
 
 		<div class="col-4 text-right">
-			<h2 style="text-align:right; color:white,">(559)77784664</h2>
+			<h2 style="text-align:right; color:white;">(559)77784664</h2>
 		</div>
 </div>
 <div class="row">
