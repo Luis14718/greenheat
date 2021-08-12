@@ -1120,8 +1120,7 @@ h1 {
  * - Add double vertical margins here for clearer hierarchy
  */
 .site-main > * {
-	margin-top: calc(3 * var(--global--spacing-vertical));
-	margin-bottom: calc(3 * var(--global--spacing-vertical));
+	
 }
 
 .site-main > *:first-child {
