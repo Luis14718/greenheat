@@ -84,7 +84,7 @@ get_header('theme');
         			<img class="featured-image" src="https://storage.googleapis.com/sos-websvc/images/default/history3.jpg" alt="History">        		</div>
         		<div class="col-sm-9 col-lg-10">
         			<div class="visible-xs-block featured-image-wrapper">
-        				<img class="featured-image" src="https://storage.googleapis.com/sos-websvc/images/default/history3.jpg" alt="History">        			</div>
+ 			</div>
                     <p>Air Flow Pros Heating &amp; Air Conditioning is a family-owned &amp; operated, full-service contractor&nbsp;serving both residential and commercial needs of the bay area and beyond.&nbsp;We are known for our experienced&nbsp;technicians, exceptional customer service and&nbsp;well thought out designs tailored to the individual needs of each customer.&nbsp; Air Flow Pros Heating &amp; Air Conditioning services and repairs&nbsp;all makes and models for heating, air conditioning and refrigeration.&nbsp;&nbsp;</p>
 
 <p>Air Flow Pros Heating &amp; Air Conditioning specializes in:</p>

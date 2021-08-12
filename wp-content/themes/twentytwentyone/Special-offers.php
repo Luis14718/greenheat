@@ -1,7 +1,7 @@
 
 <?php
 /*
-Template Name: no cooling
+Template Name: Special Offers
 */
 
 get_header('theme'); 

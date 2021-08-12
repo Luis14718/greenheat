@@ -85,7 +85,7 @@ get_header('theme');
         			<img class="featured-image" src="https://storage.googleapis.com/sos-websvc/images/default/qualification.jpg" alt="Qualifications">        		</div>
         		<div class="col-sm-9 col-lg-10">
         			<div class="visible-xs-block featured-image-wrapper">
-        				<img class="featured-image" src="https://storage.googleapis.com/sos-websvc/images/default/qualification.jpg" alt="Qualifications">        			</div>
+        		      			</div>
         			<p>We are heating and cooling professionals! We maintain a high level of quality among our staff. All of our installers and technicians are trained on a regular, on-going basis. We, and they, are certified by the following industry organizations:</p>
 
 <p><strong>Bonded &amp; Insured</strong></p>
