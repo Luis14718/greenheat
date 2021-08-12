@@ -21,7 +21,7 @@
   <footer class="blue-bg">
   <div class="row">
 	<div class="col-12">
-	<h2>Air Flow Pros Heating & Air Conditioning</h2>
+	<h2>Green Heating and Air</h2>
 	</div>
   </div>
   <div class="row">
@@ -66,10 +66,8 @@
 <div class="row">
 	<p>We provide Installation, Repair & Maintenance in San Francisco, CA and the surrounding areas:</p>
 	<p>Alameda  |  Belvedere  |  Berkeley  |  Daly City  |  Fremont  |  Kentfield  |  Larkspur  |  Los Ranchitos  |  Lucas Valley  |  Menlo Park  |  Mill Valley  |  Novato  |  Oakland  |  San Anselmo  |  San Francisco  |  San Jose  |  San Mateo  |  San Rafael  |  Santa Clara  |  Santa Venetia  |  Sausalito  |  South San Francisco  |  Tamalpais-Homestead Valley  |  Tiburon</p>
-     <p>Air Flow Pros Heating & Air Conditioning — 2595 Mission Street, Ste 202, San Francisco, CA 94110</p>
-	<p>Copyright © 2021 Select On Site, LLC
-Site design and code are property of Select On Site, LLC
-Product logos and images are the property of their respective manufacturers</p>
+     <p>Green earth heating and air — 2595 Mission Street, Ste 202, San Francisco, CA 94110</p>
+	<p>Copyright © 2021</p>
 	</div>
 
 	</div>
