@@ -14,7 +14,7 @@ $wrapper_classes .= has_nav_menu( 'primary' ) ? ' has-menu' : '';
 ?>
 
 <header id="masthead" class="" role="banner" style="max-width:99%;">
-<div class=" background-color: #1F3A4A; row align-items-center">
+<div class=" header-blue row align-items-center">
 
 		<div class="col-4">
 	        
