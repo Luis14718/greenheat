@@ -1098,8 +1098,7 @@ h1 {
 .site-main,
 .widget-area,
 .site-footer {
-	padding-top: var(--global--spacing-vertical);
-	padding-bottom: var(--global--spacing-vertical);
+	
 	margin-left: auto;
 	margin-right: auto;
 }
