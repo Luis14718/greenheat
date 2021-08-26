@@ -130,9 +130,9 @@ endwhile;
 		<div class="col-xs-12 col-sm-6 padding-bottom-30 col-md-4 home-col">
 		<section>
 			<h2>Our Services</h2>
-			<a href="<?php echo get_bloginfo('url');?>/heating-air-conditioning-services/"><img src="<?php echo get_bloginfo('url');?>/images/home/ac_repair_100w.png" class="img-responsive pull-left" alt="Wrench Icon" style="max-width:100px;"></a>
-			<p>We are service professionals! As licensed contractors and specialists in the field of heating and air-conditioning, we have the tools, the equipment, and the experience to keep your equipment running smoothly all year long. If it is <a href="<?php echo get_bloginfo('url');?>/services/repair/">emergency service</a> that you need, twenty-four hours a day, seven days a week, we are available to assist you! To help reduce service emergencies, we offer <a href="<?php echo get_bloginfo('url');?>/services/service-agreements/">service agreements</a> to keep your comfort system running at peak performance.</p>
-			<a href="<?php echo get_bloginfo('url');?>/heating-air-conditioning-services/" class="btn btn-secondary btn-default">Learn More&nbsp;<span class="glyphicon glyphicon-chevron-right " aria-hidden="true"></span> </a>
+			<img src="<?php echo get_bloginfo('url');?>/images/home/ac_repair_100w.png" class="img-responsive pull-left" alt="Wrench Icon" style="max-width:100px;">
+			<p>We are service professionals! As licensed contractors and specialists in the field of heating and air-conditioning, we have the tools, the equipment, and the experience to keep your equipment running smoothly all year long. If it is emergency service that you need, twenty-four hours a day, seven days a week, we are available to assist you! To help reduce service emergencies, we offer service agreements to keep your comfort system running at peak performance.</p>
+			Learn More&nbsp;<span class="glyphicon glyphicon-chevron-right " aria-hidden="true"></span>
 		</section>
 	</div>
 
