@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Sitemap: https://greenearthheatingandair.com/sitemap.xml
+Sitemap: https://greenearthheatingandair.com/sitemap0.xml
+Sitemap: https://greenearthheatingandair.com/sitemap1.xml
+Sitemap: https://greenearthheatingandair.com/sitemap2.xml
+Sitemap: https://greenearthheatingandair.com/sitemap3.xml
+Sitemap: https://greenearthheatingandair.com/sitemap4.xml
+Sitemap: https://greenearthheatingandair.com/sitemap5.xml
+Sitemap: https://greenearthheatingandair.com/sitemap6.xml
+Sitemap: https://greenearthheatingandair.com/sitemap7.xml
+Sitemap: https://greenearthheatingandair.com/sitemap8.xml

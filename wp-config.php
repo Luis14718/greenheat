@@ -124,6 +124,7 @@ $table_prefix = 'wp_';
 define('WP_CRON_LOCK_TIMEOUT', 120);
 define('AUTOSAVE_INTERVAL', 300);
 define('WP_POST_REVISIONS', 5);
+define('CONCATENATE_SCRIPTS',false);
 define('EMPTY_TRASH_DAYS', 7);
 define('WP_AUTO_UPDATE_CORE', true);
 
