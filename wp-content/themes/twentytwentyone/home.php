@@ -159,7 +159,7 @@ endwhile;
                     <div class="col-4">
                         <ul class="home-bullets-list"><li>Equipment Retrofit &amp; Replacement</li><li>Preventative Maintenance</li><li>Extended Service Agreements</li><li>Extended Warranties on New Equipment</li></ul>                    </div>
                     <div class="col-4">
-                        <ul class="home-bullets-list"><li></li><li>Indoor Air Quality Specialists</li><li>Service All Makes &amp; Models</li></ul>                    </div>
+                        <ul class="home-bullets-list"><li>Indoor Air Quality Specialists</li><li>Service All Makes &amp; Models</li></ul>                    </div>
                 </div>
 
                 
