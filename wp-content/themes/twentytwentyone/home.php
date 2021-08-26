@@ -124,7 +124,7 @@ endwhile;
 			<aside>
 				<h2>Promotions</h2>
 				<div class="ads-wrapper center-block">
-					<div class="carousel slide ads-rotator" data-ride="carousel"><div class="carousel-inner" role="listbox"><div class="item active"><a class="ad" href="<?php echo get_bloginfo('url');?>/products/heat-pumps/"><img src="<?php echo get_bloginfo('url');?>/images/home/brand_16_2.jpg" alt="American Standard AccuComfort Heat Pump"></a></div></div></div>				</div>
+					<div class="carousel slide ads-rotator" data-ride="carousel"><div class="carousel-inner" role="listbox"><div class="item active"><img src="https://greenearthheatingandair.com/wp-content/uploads/2021/08/brand_16_2.jpg" alt="American Standard AccuComfort Heat Pump"></div></div></div>				</div>
 			</aside>
 		</div>
 		<div class="col-xs-12 col-sm-6 padding-bottom-30 col-md-4 home-col">
@@ -155,11 +155,11 @@ endwhile;
 
                 <div class="row home-bullets-three-column visible-lg-block">
                     <div class="col-4">
-                        <ul class="home-bullets-list"><li><a href="<?php echo get_bloginfo('url');?>/heating-air-conditioning-products/">Residential Heating &amp; Air Conditioning Products</a></li><li><a href="<?php echo get_bloginfo('url');?>/services/commercial-hvac/">Commercial HVAC Services</a></li><li><a href="<?php echo get_bloginfo('url');?>/services/new-installation/">Installation &amp; Replacement</a></li><li><a href="<?php echo get_bloginfo('url');?>/about/qualifications/">Trained Technicians</a></li></ul>                    </div>
+                        <ul class="home-bullets-list"><li>Residential Heating &amp; Air Conditioning Products</li><li>Commercial HVAC Services</li><li>Installation &amp; Replacement</a></li><li>Trained Technicians</li></ul>                    </div>
                     <div class="col-4">
-                        <ul class="home-bullets-list"><li><a href="<?php echo get_bloginfo('url');?>/services/upgrade-replacement/">Equipment Retrofit &amp; Replacement</a></li><li><a href="<?php echo get_bloginfo('url');?>/services/preventive-maintenance/">Preventative Maintenance</a></li><li><a href="<?php echo get_bloginfo('url');?>/services/service-agreements/">Extended Service Agreements</a></li><li><a href="<?php echo get_bloginfo('url');?>/services/extended-warranties/">Extended Warranties on New Equipment</a></li></ul>                    </div>
+                        <ul class="home-bullets-list"><li>Equipment Retrofit &amp; Replacement</li><li>Preventative Maintenance</li><li>Extended Service Agreements</li><li>Extended Warranties on New Equipment</li></ul>                    </div>
                     <div class="col-4">
-                        <ul class="home-bullets-list"><li><a href="<?php echo get_bloginfo('url');?>/services/repair/">Emergency Service</a></li><li><a href="<?php echo get_bloginfo('url');?>/services/indoor-air-quality-specialists/">Indoor Air Quality Specialists</a></li><li><a href="<?php echo get_bloginfo('url');?>/services/repair/">Service All Makes &amp; Models</a></li></ul>                    </div>
+                        <ul class="home-bullets-list"><li></li><li>Indoor Air Quality Specialists</li><li>Service All Makes &amp; Models</li></ul>                    </div>
                 </div>
 
                 
