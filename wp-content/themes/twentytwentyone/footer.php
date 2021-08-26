@@ -32,7 +32,7 @@
 	
 	<div class="row">
 <div class="col-12">
-	<h3>415-400-5140</h3>
+
 </div>
 	</div>
 
