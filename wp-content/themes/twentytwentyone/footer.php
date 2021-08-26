@@ -25,33 +25,9 @@
 	</div>
   </div>
   <div class="row">
-
-	<div class="col-3 menu-lf"><?php
-					wp_nav_menu(
-						array(
-							'theme_location' => 'footer1',
-							'items_wrap'     => '%3$s',
-							'container'      => false,
-							'depth'          => 1,
-							'link_before'    => '<span>',
-							'link_after'     => '</span>',
-							'fallback_cb'    => false,
-						)
-					);
-					?></div>
-	<div class="col-3 menu-lf"> <?php
-					wp_nav_menu(
-						array(
-							'theme_location' => 'footer2',
-							'items_wrap'     => '%3$s',
-							'container'      => false,
-							'depth'          => 1,
-							'link_before'    => '<span>',
-							'link_after'     => '</span>',
-							'fallback_cb'    => false,
-						)
-					);
-					?></div>
+<div class="col-6 text-center">
+<img src="images/contact.png" alt="">
+</div>
 	<div class="col-6">
 	
 	<div class="row">
