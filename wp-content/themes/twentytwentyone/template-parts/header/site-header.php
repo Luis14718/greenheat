@@ -35,7 +35,7 @@ $wrapper_classes .= has_nav_menu( 'primary' ) ? ' has-menu' : '';
 		</div>
 
 		<div class="col-4 text-right">
-			<h2 style="text-align:right; color:#acc236; font: size 47px;">(559)412-82000</h2>
+			<h2 style="text-align:right; color:#acc236; font: size 47px; font-weight: bold;">(559)412-82000</h2>
 		</div>
 </div>
 <div class="row">
