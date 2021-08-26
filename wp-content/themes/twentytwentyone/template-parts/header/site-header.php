@@ -20,7 +20,7 @@ $wrapper_classes .= has_nav_menu( 'primary' ) ? ' has-menu' : '';
 	        
 		<div class="row align-items-center">
 		<div class="col-6 text-center" style="padding-left:32px;"><img style="width: 94%;filter: brightness(358);" src="https://greenearthheatingandair.com/wp-content/uploads/2021/08/421-4210505_american-standard-logo-american-standard-heating-and-cooling.png" alt="" style="width:100%;"> </div>
-		<div class="col-6 text-center"> <img src="<?php echo get_bloginfo('url');?>/wp-content/uploads/2021/07/energy-star.png" alt="">	</div>
+		<div class="col-6 text-left"> <img src="<?php echo get_bloginfo('url');?>/wp-content/uploads/2021/07/energy-star.png" alt="">	</div>
 
 		</div>
     
