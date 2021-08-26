@@ -63,19 +63,19 @@ endwhile;
                     </div>
 
 					<div class="col-2">
-						<img class="img-responsive" src="<?php echo get_bloginfo('url');?>/images/topic-new-system.png" width="129" height="89" alt="Select a New System">
+						<img class="img-responsive" src="/images/1.png" width="129" height="89" alt="Select a New System">
 					</div>
 					<div class="col-2">
-						<img class="img-responsive" src="<?php echo get_bloginfo('url');?>/images/topic-repair-or-replace.png" width="129" height="89" alt="Repair or Replace?">
+						<img class="img-responsive"  src="/images/2.png" width="129" height="89" alt="Repair or Replace?">
 					</div>
 					<div class="col-2">
-						<img class="img-responsive" src="<?php echo get_bloginfo('url');?>/images/topic-energy-concerns.png" width="129" height="89" alt="Energy Bill Concerns">
+						<img class="img-responsive" src="/images/3.png" width="129" height="89" alt="Energy Bill Concerns">
 					</div>
 					<div class="col-2">
-						<img class="img-responsive" src="<?php echo get_bloginfo('url');?>/images/topic-healthy-home.png" width="129" height="89" alt="Healthier Home">
+						<img class="img-responsive" src="/images/4.png" width="129" height="89" alt="Healthier Home">
 					</div>
 					<div class="col-2">
-						<img class="img-responsive" src="<?php echo get_bloginfo('url');?>/images/topic-ready-for-maintenance.png" width="135" height="89" alt="Ready for Maintenance">
+						<img class="img-responsive" src="/images/5.png" width="135" height="89" alt="Ready for Maintenance">
 					</div>
 
 				</div>
