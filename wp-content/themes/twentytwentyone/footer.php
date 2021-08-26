@@ -26,7 +26,7 @@
   </div>
   <div class="row">
 <div class="col-6 text-center">
-<img src="images/contact.png" alt="">
+<img style="width:77%;" src="images/contact.png" alt="">
 </div>
 	<div class="col-6">
 	
